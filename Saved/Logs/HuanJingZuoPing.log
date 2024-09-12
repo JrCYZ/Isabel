@@ -1218,3 +1218,96 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.09.12-22.01.17:267][199]AssetCheck: /Game/3620/3620 Validating asset
 [2024.09.12-22.01.17:267][199]LogContentValidation: Display: Validating asset /Game/3620/_GENERATED/u1371722/Torus_91FB8006.Torus_91FB8006
 [2024.09.12-22.01.17:267][199]AssetCheck: /Game/3620/_GENERATED/u1371722/Torus_91FB8006 Validating asset
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: ================================================
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Total job queries 983, among them cache hits 10 (1.02%), DDC hits 14 (1.42%), Duplicates 210 (21.36%)
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Tracking 763 distinct input hashes that result in 585 distinct outputs (76.67%)
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: RAM used: 2.31 MiB of 1.60 GiB budget. Usage: 0.14%
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Shaders Compiled: 749
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Jobs assigned 749, completed 749 (100%)
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Average time worker was idle: 0.44 s
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Time job spent in pending queue: average 21.18 s, longest 56.60 s
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Job execution time: average 10.96 s, max 59.96 s
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Job life time (pending + execution): average 32.14 s, max 60.54
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Shader code size: average 10.177 KiB, min 196 B, max 69.516 KiB
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 115.44 s
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.09%
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Jobs were issued in 118 batches (only local compilation was used), average 6.35 jobs/batch
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Average processing rate: 6.49 jobs/sec
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Total thread time: 884.363 s
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Total thread preprocess time: 13.431 s
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Percentage time preprocessing: 1.52%
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Effective parallelization: 7.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 5.97 sec, max 10.74 sec, min 2.79 sec)
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 5.24 sec, max 5.24 sec, min 5.24 sec)
+[2024.09.12-22.01.23:454][259]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 5.11 sec, max 5.11 sec, min 5.11 sec)
+[2024.09.12-22.01.23:455][259]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 4.40 sec, max 4.40 sec, min 4.40 sec)
+[2024.09.12-22.01.23:455][259]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 4.25 sec, max 4.25 sec, min 4.25 sec)
+[2024.09.12-22.01.23:455][259]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.12-22.01.23:455][259]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 45.94% of total time (compiled   68 times, average 5.97 sec, max 10.74 sec, min 2.79 sec)
+[2024.09.12-22.01.23:455][259]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.67% of total time (compiled   18 times, average 2.29 sec, max 3.73 sec, min 1.67 sec)
+[2024.09.12-22.01.23:455][259]LogShaderCompilers: Display:                                                  FVelocityPS - 2.69% of total time (compiled   25 times, average 0.95 sec, max 1.19 sec, min 0.56 sec)
+[2024.09.12-22.01.23:455][259]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.32% of total time (compiled   27 times, average 0.76 sec, max 1.23 sec, min 0.53 sec)
+[2024.09.12-22.01.23:455][259]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 2.11% of total time (compiled   22 times, average 0.85 sec, max 2.00 sec, min 0.57 sec)
+[2024.09.12-22.01.23:455][259]LogShaderCompilers: Display: === Material stats ===
+[2024.09.12-22.01.23:455][259]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.12-22.01.23:455][259]LogShaderCompilers: Display: Materials Translated:    123
+[2024.09.12-22.01.23:455][259]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2024.09.12-22.01.23:455][259]LogShaderCompilers: Display: Material Translation Only: 0.03 s (16%)
+[2024.09.12-22.01.23:455][259]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.09.12-22.01.23:455][259]LogShaderCompilers: Display: Material Cache Hits: 30 (24%)
+[2024.09.12-22.01.23:455][259]LogShaderCompilers: Display: ================================================
+[2024.09.12-22.02.27:900][645]LogStaticMesh: Display: Building static mesh JR_wall (Required Memory Estimate: 0.671477 MB)...
+[2024.09.12-22.02.27:904][645]LogStaticMesh: Built static mesh [0.00s] /Game/3620/JR_wall.JR_wall
+[2024.09.12-22.02.28:071][650]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_wall.JR_wall
+[2024.09.12-22.02.28:071][650]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_wall.JR_wall
+[2024.09.12-22.02.28:072][650]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/JR_wall.JR_wall as actor: StaticMeshActor /Game/3620/3620.3620:PersistentLevel.StaticMeshActor_2
+[2024.09.12-22.02.28:576][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.09.12-22.02.28:577][706]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2024.09.12-22.02.28:601][706]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_wall.JR_wall
+[2024.09.12-22.02.28:601][706]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_wall.JR_wall
+[2024.09.12-22.02.28:603][706]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/JR_wall.JR_wall as actor: StaticMeshActor /Game/3620/3620.3620:PersistentLevel.StaticMeshActor_3
+[2024.09.12-22.02.29:321][746]Cmd: TRANSACTION UNDO
+[2024.09.12-22.02.29:321][746]LogEditorTransaction: Undo Place Objects
+[2024.09.12-22.02.31:072][860]LogStaticMesh: Display: Building static mesh JR_BOX_pCube13 (Required Memory Estimate: 5.359175 MB)...
+[2024.09.12-22.02.31:114][860]LogStaticMesh: Built static mesh [0.04s] /Game/3620/JR_BOX_pCube13.JR_BOX_pCube13
+[2024.09.12-22.02.31:195][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_BOX_pCube13.JR_BOX_pCube13
+[2024.09.12-22.02.31:195][862]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_BOX_pCube13.JR_BOX_pCube13
+[2024.09.12-22.02.31:195][862]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/JR_BOX_pCube13.JR_BOX_pCube13 as actor: StaticMeshActor /Game/3620/3620.3620:PersistentLevel.StaticMeshActor_4
+[2024.09.12-22.02.31:440][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.09.12-22.02.31:441][887]LogEditorActor: Deleted 0 Actors (0.005 secs)
+[2024.09.12-22.02.31:447][887]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_BOX_pCube13.JR_BOX_pCube13
+[2024.09.12-22.02.31:447][887]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_BOX_pCube13.JR_BOX_pCube13
+[2024.09.12-22.02.31:449][887]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/JR_BOX_pCube13.JR_BOX_pCube13 as actor: StaticMeshActor /Game/3620/3620.3620:PersistentLevel.StaticMeshActor_5
+[2024.09.12-22.02.44:958][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_wall.JR_wall
+[2024.09.12-22.02.44:958][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_wall.JR_wall
+[2024.09.12-22.02.44:959][981]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/JR_wall.JR_wall as actor: StaticMeshActor /Game/3620/3620.3620:PersistentLevel.StaticMeshActor_6
+[2024.09.12-22.02.44:966][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.09.12-22.02.44:967][981]LogEditorActor: Deleted 0 Actors (0.005 secs)
+[2024.09.12-22.02.44:981][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_wall.JR_wall
+[2024.09.12-22.02.44:981][981]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_wall.JR_wall
+[2024.09.12-22.02.44:981][981]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/JR_wall.JR_wall as actor: StaticMeshActor /Game/3620/3620.3620:PersistentLevel.StaticMeshActor_7
+[2024.09.12-22.02.45:162][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.09.12-22.02.45:163][  0]LogEditorActor: Deleted 0 Actors (0.005 secs)
+[2024.09.12-22.02.45:170][  0]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_wall.JR_wall
+[2024.09.12-22.02.45:170][  0]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_wall.JR_wall
+[2024.09.12-22.02.45:171][  0]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/JR_wall.JR_wall as actor: StaticMeshActor /Game/3620/3620.3620:PersistentLevel.StaticMeshActor_8
+[2024.09.12-22.02.59:779][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.09.12-22.03.00:783][154]LogSlate: Window 'Save Content' being destroyed
+[2024.09.12-22.03.00:793][154]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.12-22.03.00:839][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/3620" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/3620.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.09.12-22.03.00:875][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.09.12-22.03.00:881][154]LogSavePackage: Moving output files for package: /Game/3620/3620
+[2024.09.12-22.03.00:881][154]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/36207C74502D4B1C34DC648EF0A8BD96DC0D.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/3620.umap'
+[2024.09.12-22.03.00:883][154]LogFileHelpers: All files are already saved.
+[2024.09.12-22.03.00:886][154]LogFileHelpers: Saving map '3620' took 0.047
+[2024.09.12-22.03.00:892][154]LogFileHelpers: InternalPromptForCheckoutAndSave took 99.132 ms (total: 342.745 ms)
+[2024.09.12-22.03.00:938][154]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.12-22.03.00:938][154]LogContentValidation: Enabled validators:
+[2024.09.12-22.03.00:938][154]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.12-22.03.00:938][154]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.12-22.03.00:938][154]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.12-22.03.00:938][154]LogContentValidation: Display: Validating asset /Game/3620/3620.3620
+[2024.09.12-22.03.00:938][154]AssetCheck: /Game/3620/3620 Validating asset
