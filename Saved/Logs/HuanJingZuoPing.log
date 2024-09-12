@@ -1638,3 +1638,200 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.09.12-22.07.23:752][229]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
 [2024.09.12-22.07.23:752][229]LogShaderCompilers: Display: Material Cache Hits: 30 (24%)
 [2024.09.12-22.07.23:752][229]LogShaderCompilers: Display: ================================================
+[2024.09.12-22.08.22:912][ 47]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2024.09.12-22.08.22:912][ 47]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2024.09.12-22.08.22:916][ 47]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/3620/3620.3620:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.09.12-22.08.22:919][ 47]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/3620/3620.3620:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.09.12-22.08.23:592][101]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.09.12-22.08.23:616][101]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2024.09.12-22.08.23:623][101]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2024.09.12-22.08.23:623][101]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C
+[2024.09.12-22.08.23:630][101]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/3620/3620.3620:PersistentLevel.BP_ThirdPersonCharacter_C_1
+[2024.09.12-22.08.23:632][101]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter as actor: BP_ThirdPersonCharacter_C /Game/3620/3620.3620:PersistentLevel.BP_ThirdPersonCharacter_C_1
+[2024.09.12-22.08.23:869][103]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_4'.
+[2024.09.12-22.09.08:952][300]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.09.12-22.09.28:624][ 32]Cmd: TRANSACTION UNDO
+[2024.09.12-22.09.28:624][ 32]LogEditorTransaction: Undo Change Lens Preset
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: ================================================
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Total job queries 1,036, among them cache hits 23 (2.22%), DDC hits 14 (1.35%), Duplicates 210 (20.27%)
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Tracking 803 distinct input hashes that result in 612 distinct outputs (76.21%)
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: RAM used: 2.37 MiB of 1.60 GiB budget. Usage: 0.14%
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Shaders Compiled: 789
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Jobs assigned 789, completed 789 (100%)
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Average time worker was idle: 27.33 s
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Time job spent in pending queue: average 20.11 s, longest 56.60 s
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Job execution time: average 10.46 s, max 59.96 s
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Job life time (pending + execution): average 30.57 s, max 60.54
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Shader code size: average 9.863 KiB, min 196 B, max 69.516 KiB
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 126.93 s
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.09%
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Jobs were issued in 158 batches (only local compilation was used), average 4.99 jobs/batch
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Average processing rate: 6.22 jobs/sec
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Total thread time: 913.479 s
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Total thread preprocess time: 14.028 s
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Percentage time preprocessing: 1.54%
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Effective parallelization: 7.20 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 5.97 sec, max 10.74 sec, min 2.79 sec)
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 5.24 sec, max 5.24 sec, min 5.24 sec)
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 5.11 sec, max 5.11 sec, min 5.11 sec)
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 4.40 sec, max 4.40 sec, min 4.40 sec)
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 4.25 sec, max 4.25 sec, min 4.25 sec)
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 44.48% of total time (compiled   68 times, average 5.97 sec, max 10.74 sec, min 2.79 sec)
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.52% of total time (compiled   18 times, average 2.29 sec, max 3.73 sec, min 1.67 sec)
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.23% of total time (compiled   38 times, average 0.78 sec, max 1.23 sec, min 0.53 sec)
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display:                                                  FVelocityPS - 2.60% of total time (compiled   25 times, average 0.95 sec, max 1.19 sec, min 0.56 sec)
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 2.04% of total time (compiled   22 times, average 0.85 sec, max 2.00 sec, min 0.57 sec)
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: === Material stats ===
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Materials Translated:    126
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Material Translation Only: 0.03 s (17%)
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: Material Cache Hits: 30 (24%)
+[2024.09.12-22.10.23:757][672]LogShaderCompilers: Display: ================================================
+[2024.09.12-22.10.40:056][571]LogTexture: Display: Building textures: /Game/3620/bogdan-tufecciu-halle-interior01.bogdan-tufecciu-halle-interior01 (BGRA8, 1575x1117 x1x1x1) (Required Memory Estimate: 51.514278 MB), EncodeSpeed: Fast
+[2024.09.12-22.10.40:096][573]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.09.12-22.11.49:227][845]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_BOX_pCube12.JR_BOX_pCube12
+[2024.09.12-22.11.49:227][845]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_BOX_pCube12.JR_BOX_pCube12
+[2024.09.12-22.11.49:227][845]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/JR_BOX_pCube12.JR_BOX_pCube12 as actor: StaticMeshActor /Game/3620/3620.3620:PersistentLevel.StaticMeshActor_12
+[2024.09.12-22.11.49:644][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.09.12-22.11.49:646][892]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2024.09.12-22.11.49:653][892]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_BOX_pCube12.JR_BOX_pCube12
+[2024.09.12-22.11.49:653][892]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_BOX_pCube12.JR_BOX_pCube12
+[2024.09.12-22.11.49:654][892]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/JR_BOX_pCube12.JR_BOX_pCube12 as actor: StaticMeshActor /Game/3620/3620.3620:PersistentLevel.StaticMeshActor_13
+[2024.09.12-22.12.01:055][ 18]Cmd: PIVOT HERE
+[2024.09.12-22.12.05:049][397]Cmd: ACTOR BAKEPREPIVOT
+[2024.09.12-22.12.34:559][ 59]Cmd: TRANSACTION UNDO
+[2024.09.12-22.12.34:559][ 59]LogEditorTransaction: Undo Move Elements
+[2024.09.12-22.12.54:583][644]Cmd: TRANSACTION UNDO
+[2024.09.12-22.12.54:583][644]LogEditorTransaction: Undo Move Elements
+[2024.09.12-22.13.16:967][ 89]Cmd: TRANSACTION UNDO
+[2024.09.12-22.13.16:967][ 89]LogEditorTransaction: Undo Move Elements
+[2024.09.12-22.13.19:190][259]Cmd: TRANSACTION UNDO
+[2024.09.12-22.13.19:190][259]LogEditorTransaction: Undo Move Elements
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: ================================================
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Total job queries 1,067, among them cache hits 23 (2.16%), DDC hits 14 (1.31%), Duplicates 213 (19.96%)
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Tracking 831 distinct input hashes that result in 633 distinct outputs (76.17%)
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: RAM used: 2.42 MiB of 1.60 GiB budget. Usage: 0.15%
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Shaders Compiled: 817
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Jobs assigned 817, completed 817 (100%)
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Average time worker was idle: 30.54 s
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Time job spent in pending queue: average 19.47 s, longest 56.60 s
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Job execution time: average 10.14 s, max 59.96 s
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Job life time (pending + execution): average 29.60 s, max 60.54
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Shader code size: average 9.681 KiB, min 196 B, max 69.516 KiB
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 132.04 s
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.09%
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Jobs were issued in 186 batches (only local compilation was used), average 4.39 jobs/batch
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Average processing rate: 6.19 jobs/sec
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Total thread time: 938.726 s
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Total thread preprocess time: 14.425 s
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Percentage time preprocessing: 1.54%
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Effective parallelization: 7.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 5.97 sec, max 10.74 sec, min 2.79 sec)
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 5.24 sec, max 5.24 sec, min 5.24 sec)
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 5.11 sec, max 5.11 sec, min 5.11 sec)
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 4.40 sec, max 4.40 sec, min 4.40 sec)
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 4.25 sec, max 4.25 sec, min 4.25 sec)
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 43.28% of total time (compiled   68 times, average 5.97 sec, max 10.74 sec, min 2.79 sec)
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.60% of total time (compiled   19 times, average 2.27 sec, max 3.73 sec, min 1.67 sec)
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.25% of total time (compiled   39 times, average 0.78 sec, max 1.23 sec, min 0.53 sec)
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display:                                                  FVelocityPS - 2.63% of total time (compiled   26 times, average 0.95 sec, max 1.19 sec, min 0.56 sec)
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.11% of total time (compiled   23 times, average 0.86 sec, max 1.49 sec, min 0.60 sec)
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: === Material stats ===
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Materials Translated:    127
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Material Total Translate Time: 0.19 s
+[2024.09.12-22.13.23:762][693]LogShaderCompilers: Display: Material Translation Only: 0.03 s (17%)
+[2024.09.12-22.13.23:763][693]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.09.12-22.13.23:763][693]LogShaderCompilers: Display: Material Cache Hits: 30 (24%)
+[2024.09.12-22.13.23:763][693]LogShaderCompilers: Display: ================================================
+[2024.09.12-22.18.16:939][296]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.09.12-22.18.16:940][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/3620" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Autosaves/Game/3620/3620_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.09.12-22.18.16:952][296]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3620/3620_Auto1
+[2024.09.12-22.18.16:952][296]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/3620_Auto1094E9BB64BA3FFD0F002C88107E6E35C.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Autosaves/Game/3620/3620_Auto1.umap'
+[2024.09.12-22.18.16:953][296]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Autosaves/Game/3620/3620_Auto1.umap is in the /Temp path, will not scan.
+[2024.09.12-22.18.16:953][296]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/3620/3620_Auto1 is in the /Temp path, will not scan.
+[2024.09.12-22.18.16:953][296]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/3620/3620_Auto1 is in the /Temp path, will not scan.
+[2024.09.12-22.18.16:953][296]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3620/3620' took 0.021
+[2024.09.12-22.18.16:953][296]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2024.09.12-22.18.16:953][296]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/bogdan-tufecciu-halle-interior01_Mat] ([1] browsable assets)...
+[2024.09.12-22.18.16:965][296]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3620/bogdan-tufecciu-halle-interior01_Mat.bogdan-tufecciu-halle-interior01_Mat]
+[2024.09.12-22.18.16:965][296]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/bogdan-tufecciu-halle-interior01_Mat]
+[2024.09.12-22.18.16:966][296]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3620/bogdan-tufecciu-halle-interior01_Mat_Auto1
+[2024.09.12-22.18.16:966][296]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/bogdan-tufecciu-halle-interior01ABB6EF954E70CF020BE90BB33005BE81.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Autosaves/Game/3620/bogdan-tufecciu-halle-interior01_Mat_Auto1.uasset'
+[2024.09.12-22.18.16:967][296]LogFileHelpers: Auto-saving content packages took 0.014
+[2024.09.12-22.18.54:669][808]LogSlate: Window 'Color Picker' being destroyed
+[2024.09.12-22.19.01:766][542]LogSlate: Window 'Color Picker' being destroyed
+[2024.09.12-22.19.43:312][207]LogSlate: Window 'Color Picker' being destroyed
+[2024.09.12-22.20.22:372][ 58]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.22:372][ 58]LogEditorTransaction: Undo Rotate Atmosphere Light 0
+[2024.09.12-22.20.23:233][100]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.23:233][100]LogEditorTransaction: Undo Reset to Default
+[2024.09.12-22.20.23:570][134]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.23:570][134]LogEditorTransaction: Undo Reset to Default
+[2024.09.12-22.20.23:751][152]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.23:751][152]LogEditorTransaction: Undo Reset to Default
+[2024.09.12-22.20.23:951][172]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.23:951][172]LogEditorTransaction: Undo Clicking on Actors
+[2024.09.12-22.20.24:121][183]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.24:121][183]LogEditorTransaction: Undo Rotate Atmosphere Light 0
+[2024.09.12-22.20.24:302][198]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.24:302][198]LogEditorTransaction: Undo Rotate Atmosphere Light 0
+[2024.09.12-22.20.24:478][214]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.24:478][214]LogEditorTransaction: Undo Rotate Atmosphere Light 0
+[2024.09.12-22.20.24:690][232]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.24:690][232]LogEditorTransaction: Undo Clicking on Elements
+[2024.09.12-22.20.25:015][261]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.25:015][261]LogEditorTransaction: Undo Edit Sky Atmosphere Ambient Contribution Color Scale
+[2024.09.12-22.20.25:287][285]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.25:287][285]LogEditorTransaction: Undo Edit Fog Density
+[2024.09.12-22.20.25:541][308]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.25:541][308]LogEditorTransaction: Undo Edit Fog Density
+[2024.09.12-22.20.25:762][330]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.25:762][330]LogEditorTransaction: Undo Edit Fog Density
+[2024.09.12-22.20.26:056][358]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.26:056][358]LogEditorTransaction: Undo Edit Fog Density
+[2024.09.12-22.20.26:503][367]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.26:503][367]LogEditorTransaction: Undo Edit Fog Density
+[2024.09.12-22.20.26:935][402]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.26:935][402]LogEditorTransaction: Undo Edit Sky Atmosphere Ambient Contribution Color Scale
+[2024.09.12-22.20.31:279][817]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.31:279][817]LogEditorTransaction: Undo Clicking on Actors
+[2024.09.12-22.20.31:537][820]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.31:537][820]LogEditorTransaction: Undo Rotate Atmosphere Light 0
+[2024.09.12-22.20.32:401][880]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.32:401][880]LogEditorTransaction: Undo Rotate Atmosphere Light 0
+[2024.09.12-22.20.33:589][992]Cmd: TRANSACTION UNDO
+[2024.09.12-22.20.33:589][992]LogEditorTransaction: Undo Clicking on Elements
+[2024.09.12-22.21.00:015][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.09.12-22.21.01:090][587]LogSlate: Window 'Save Content' being destroyed
+[2024.09.12-22.21.01:098][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.12-22.21.01:157][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/3620" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/3620.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.09.12-22.21.01:194][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.09.12-22.21.01:206][587]LogSavePackage: Moving output files for package: /Game/3620/3620
+[2024.09.12-22.21.01:207][587]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/36209998DF5F4B01720616DCAF9E555D095D.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/3620.umap'
+[2024.09.12-22.21.01:209][587]LogFileHelpers: All files are already saved.
+[2024.09.12-22.21.01:213][587]LogFileHelpers: Saving map '3620' took 0.056
+[2024.09.12-22.21.01:213][587]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3620/bogdan-tufecciu-halle-interior01_Mat] ([1] browsable assets)...
+[2024.09.12-22.21.01:213][587]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/bogdan-tufecciu-halle-interior01_Mat]
+[2024.09.12-22.21.01:214][587]LogSavePackage: Moving output files for package: /Game/3620/bogdan-tufecciu-halle-interior01_Mat
+[2024.09.12-22.21.01:214][587]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/bogdan-tufecciu-halle-interior017E1EBEC44164D997B4ECB99D67D00D17.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/bogdan-tufecciu-halle-interior01_Mat.uasset'
+[2024.09.12-22.21.01:220][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 122.605 ms (total: 989.360 ms)
+[2024.09.12-22.21.01:272][587]LogContentValidation: Display: Starting to validate 2 assets
+[2024.09.12-22.21.01:272][587]LogContentValidation: Enabled validators:
+[2024.09.12-22.21.01:272][587]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.12-22.21.01:272][587]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.12-22.21.01:272][587]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.12-22.21.01:272][587]LogContentValidation: Display: Validating asset /Game/3620/3620.3620
+[2024.09.12-22.21.01:273][587]AssetCheck: /Game/3620/3620 Validating asset
+[2024.09.12-22.21.01:273][587]LogContentValidation: Display: Validating asset /Game/3620/bogdan-tufecciu-halle-interior01_Mat.bogdan-tufecciu-halle-interior01_Mat
+[2024.09.12-22.21.01:273][587]AssetCheck: /Game/3620/bogdan-tufecciu-halle-interior01_Mat Validating asset
