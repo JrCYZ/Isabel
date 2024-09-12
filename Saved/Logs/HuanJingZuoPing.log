@@ -1189,3 +1189,32 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.09.12-21.59.21:962][666]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
 [2024.09.12-21.59.23:708][834]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_0'.
 [2024.09.12-21.59.24:760][887]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2024.09.12-22.01.11:438][786]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/_GENERATED/u1371722/Torus_91FB8006.Torus_91FB8006
+[2024.09.12-22.01.11:439][786]LogStaticMesh: Display: Building static mesh Torus_91FB8006 (Required Memory Estimate: 0.804291 MB)...
+[2024.09.12-22.01.11:440][786]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/_GENERATED/u1371722/Torus_91FB8006.Torus_91FB8006 as actor: StaticMeshActor /Game/3620/3620.3620:PersistentLevel.StaticMeshActor_0
+[2024.09.12-22.01.11:440][786]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/3620/_GENERATED/u1371722/Torus_91FB8006) ...
+[2024.09.12-22.01.11:441][786]LogStaticMesh: Built static mesh [0.00s] /Game/3620/_GENERATED/u1371722/Torus_91FB8006.Torus_91FB8006
+[2024.09.12-22.01.16:172][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.09.12-22.01.17:082][199]LogSlate: Window 'Save Content' being destroyed
+[2024.09.12-22.01.17:090][199]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.12-22.01.17:134][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/3620" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/3620.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.09.12-22.01.17:170][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.09.12-22.01.17:176][199]LogSavePackage: Moving output files for package: /Game/3620/3620
+[2024.09.12-22.01.17:176][199]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/3620EA374E2448CAB1E000A3CCB5290C6259.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/3620.umap'
+[2024.09.12-22.01.17:178][199]LogFileHelpers: All files are already saved.
+[2024.09.12-22.01.17:181][199]LogFileHelpers: Saving map '3620' took 0.047
+[2024.09.12-22.01.17:182][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/_GENERATED/u1371722/Torus_91FB8006] ([1] browsable assets)...
+[2024.09.12-22.01.17:196][199]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3620/_GENERATED/u1371722/Torus_91FB8006.Torus_91FB8006]
+[2024.09.12-22.01.17:196][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/_GENERATED/u1371722/Torus_91FB8006]
+[2024.09.12-22.01.17:199][199]LogSavePackage: Moving output files for package: /Game/3620/_GENERATED/u1371722/Torus_91FB8006
+[2024.09.12-22.01.17:199][199]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Torus_91FB8006308D9162452729C180DE00A1ECAADAA8.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/_GENERATED/u1371722/Torus_91FB8006.uasset'
+[2024.09.12-22.01.17:209][199]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.188 ms (total: 243.613 ms)
+[2024.09.12-22.01.17:267][199]LogContentValidation: Display: Starting to validate 2 assets
+[2024.09.12-22.01.17:267][199]LogContentValidation: Enabled validators:
+[2024.09.12-22.01.17:267][199]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.12-22.01.17:267][199]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.12-22.01.17:267][199]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.12-22.01.17:267][199]LogContentValidation: Display: Validating asset /Game/3620/3620.3620
+[2024.09.12-22.01.17:267][199]AssetCheck: /Game/3620/3620 Validating asset
+[2024.09.12-22.01.17:267][199]LogContentValidation: Display: Validating asset /Game/3620/_GENERATED/u1371722/Torus_91FB8006.Torus_91FB8006
+[2024.09.12-22.01.17:267][199]AssetCheck: /Game/3620/_GENERATED/u1371722/Torus_91FB8006 Validating asset
