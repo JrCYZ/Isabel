@@ -1835,3 +1835,91 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.09.12-22.21.01:273][587]AssetCheck: /Game/3620/3620 Validating asset
 [2024.09.12-22.21.01:273][587]LogContentValidation: Display: Validating asset /Game/3620/bogdan-tufecciu-halle-interior01_Mat.bogdan-tufecciu-halle-interior01_Mat
 [2024.09.12-22.21.01:273][587]AssetCheck: /Game/3620/bogdan-tufecciu-halle-interior01_Mat Validating asset
+[2024.09.12-22.21.17:034][193]LogContentBrowser: Deferred new asset folder creation: NewFolder1
+[2024.09.12-22.21.17:051][193]LogContentBrowser: Creating deferred item: NewFolder1
+[2024.09.12-22.21.17:061][194]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder1).
+[2024.09.12-22.21.19:857][460]LogContentBrowser: Attempting asset rename: NewFolder1 -> Model
+[2024.09.12-22.21.19:858][460]LogContentBrowser: End creating deferred item NewFolder1
+[2024.09.12-22.21.23:766][826]LogStaticMesh: Display: Building static mesh JR_BOX_polySurface5 (Required Memory Estimate: 0.522308 MB)...
+[2024.09.12-22.21.23:770][826]LogStaticMesh: Built static mesh [0.01s] /Game/3620/JR_BOX_polySurface5.JR_BOX_polySurface5
+[2024.09.12-22.21.25:179][973]LogMetaData: Removing '/Game/3620/Model/JR_wall.JR_wall' ref from Metadata '/Game/3620/JR_wall.PackageMetaData'
+[2024.09.12-22.21.25:183][973]LogMetaData: Removing '/Game/3620/Model/JR_BOX_polySurface5.JR_BOX_polySurface5' ref from Metadata '/Game/3620/JR_BOX_polySurface5.PackageMetaData'
+[2024.09.12-22.21.25:184][973]LogMetaData: Removing '/Game/3620/Model/JR_BOX_pCube13.JR_BOX_pCube13' ref from Metadata '/Game/3620/JR_BOX_pCube13.PackageMetaData'
+[2024.09.12-22.21.25:187][973]LogMetaData: Removing '/Game/3620/Model/JR_BOX_pCube12.JR_BOX_pCube12' ref from Metadata '/Game/3620/JR_BOX_pCube12.PackageMetaData'
+[2024.09.12-22.21.25:190][973]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.12-22.21.25:224][973]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3620/Model/JR_wall] ([1] browsable assets)...
+[2024.09.12-22.21.25:224][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Model/JR_wall]
+[2024.09.12-22.21.25:224][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Model/JR_wall" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Model/JR_wall.uasset" SILENT=true
+[2024.09.12-22.21.25:226][973]LogSavePackage: Moving output files for package: /Game/3620/Model/JR_wall
+[2024.09.12-22.21.25:226][973]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/JR_wall21D99034499BB9D424180D858E192E20.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Model/JR_wall.uasset'
+[2024.09.12-22.21.25:227][973]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3620/JR_wall] ([1] browsable assets)...
+[2024.09.12-22.21.25:227][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/JR_wall]
+[2024.09.12-22.21.25:227][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/JR_wall" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/JR_wall.uasset" SILENT=true
+[2024.09.12-22.21.25:228][973]LogSavePackage: Moving output files for package: /Game/3620/JR_wall
+[2024.09.12-22.21.25:228][973]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/JR_wall6DEB1C6F46A374E15F352B86C633FD89.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/JR_wall.uasset'
+[2024.09.12-22.21.25:229][973]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3620/Model/JR_BOX_polySurface5] ([1] browsable assets)...
+[2024.09.12-22.21.25:229][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Model/JR_BOX_polySurface5]
+[2024.09.12-22.21.25:229][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Model/JR_BOX_polySurface5" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Model/JR_BOX_polySurface5.uasset" SILENT=true
+[2024.09.12-22.21.25:232][973]LogSavePackage: Moving output files for package: /Game/3620/Model/JR_BOX_polySurface5
+[2024.09.12-22.21.25:232][973]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/JR_BOX_polySurface5EAFC04C84F82B2489EBC0C8156FAB377.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Model/JR_BOX_polySurface5.uasset'
+[2024.09.12-22.21.25:233][973]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3620/Model/JR_BOX_pCube13] ([1] browsable assets)...
+[2024.09.12-22.21.25:233][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Model/JR_BOX_pCube13]
+[2024.09.12-22.21.25:233][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Model/JR_BOX_pCube13" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Model/JR_BOX_pCube13.uasset" SILENT=true
+[2024.09.12-22.21.25:239][973]LogSavePackage: Moving output files for package: /Game/3620/Model/JR_BOX_pCube13
+[2024.09.12-22.21.25:239][973]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/JR_BOX_pCube133ED2A992464657644A5E02B62F165FAB.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Model/JR_BOX_pCube13.uasset'
+[2024.09.12-22.21.25:240][973]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3620/JR_BOX_pCube13] ([1] browsable assets)...
+[2024.09.12-22.21.25:240][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/JR_BOX_pCube13]
+[2024.09.12-22.21.25:240][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/JR_BOX_pCube13" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/JR_BOX_pCube13.uasset" SILENT=true
+[2024.09.12-22.21.25:241][973]LogSavePackage: Moving output files for package: /Game/3620/JR_BOX_pCube13
+[2024.09.12-22.21.25:241][973]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/JR_BOX_pCube13982377D34B29D5DB6745B7BC07140308.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/JR_BOX_pCube13.uasset'
+[2024.09.12-22.21.25:242][973]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3620/Model/JR_BOX_pCube12] ([1] browsable assets)...
+[2024.09.12-22.21.25:242][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Model/JR_BOX_pCube12]
+[2024.09.12-22.21.25:242][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Model/JR_BOX_pCube12" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Model/JR_BOX_pCube12.uasset" SILENT=true
+[2024.09.12-22.21.25:245][973]LogSavePackage: Moving output files for package: /Game/3620/Model/JR_BOX_pCube12
+[2024.09.12-22.21.25:245][973]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/JR_BOX_pCube12E4AB113A435E635E32221486E20617D6.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Model/JR_BOX_pCube12.uasset'
+[2024.09.12-22.21.25:246][973]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3620/JR_BOX_pCube12] ([1] browsable assets)...
+[2024.09.12-22.21.25:246][973]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/JR_BOX_pCube12]
+[2024.09.12-22.21.25:246][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/JR_BOX_pCube12" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/JR_BOX_pCube12.uasset" SILENT=true
+[2024.09.12-22.21.25:247][973]LogSavePackage: Moving output files for package: /Game/3620/JR_BOX_pCube12
+[2024.09.12-22.21.25:247][973]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/JR_BOX_pCube1245193AF9462B11AC83F45C92A34188A8.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/JR_BOX_pCube12.uasset'
+[2024.09.12-22.21.25:254][973]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.936 ms (total: 1.05 sec)
+[2024.09.12-22.21.25:261][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.09.12-22.21.25:265][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.09.12-22.21.25:269][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.09.12-22.21.25:279][973]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.09.12-22.21.25:279][973]LogContentValidation: Display: Starting to validate 7 assets
+[2024.09.12-22.21.25:279][973]LogContentValidation: Enabled validators:
+[2024.09.12-22.21.25:279][973]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.12-22.21.25:279][973]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.12-22.21.25:279][973]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.12-22.21.25:279][973]LogContentValidation: Display: Validating asset /Game/3620/Model/JR_wall.JR_wall
+[2024.09.12-22.21.25:279][973]AssetCheck: /Game/3620/Model/JR_wall Validating asset
+[2024.09.12-22.21.25:279][973]LogContentValidation: Display: Validating asset /Game/3620/JR_wall.JR_wall
+[2024.09.12-22.21.25:279][973]AssetCheck: /Game/3620/JR_wall Validating asset
+[2024.09.12-22.21.25:279][973]LogContentValidation: Display: Validating asset /Game/3620/Model/JR_BOX_polySurface5.JR_BOX_polySurface5
+[2024.09.12-22.21.25:279][973]AssetCheck: /Game/3620/Model/JR_BOX_polySurface5 Validating asset
+[2024.09.12-22.21.25:279][973]LogContentValidation: Display: Validating asset /Game/3620/Model/JR_BOX_pCube13.JR_BOX_pCube13
+[2024.09.12-22.21.25:280][973]AssetCheck: /Game/3620/Model/JR_BOX_pCube13 Validating asset
+[2024.09.12-22.21.25:280][973]LogContentValidation: Display: Validating asset /Game/3620/JR_BOX_pCube13.JR_BOX_pCube13
+[2024.09.12-22.21.25:280][973]AssetCheck: /Game/3620/JR_BOX_pCube13 Validating asset
+[2024.09.12-22.21.25:280][973]LogContentValidation: Display: Validating asset /Game/3620/Model/JR_BOX_pCube12.JR_BOX_pCube12
+[2024.09.12-22.21.25:280][973]AssetCheck: /Game/3620/Model/JR_BOX_pCube12 Validating asset
+[2024.09.12-22.21.25:280][973]LogContentValidation: Display: Validating asset /Game/3620/JR_BOX_pCube12.JR_BOX_pCube12
+[2024.09.12-22.21.25:280][973]AssetCheck: /Game/3620/JR_BOX_pCube12 Validating asset
+[2024.09.12-22.25.18:973][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.09.12-22.25.20:580][359]LogSlate: Window 'Save Content' being destroyed
+[2024.09.12-22.25.20:588][359]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.12-22.25.20:636][359]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/3620" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/3620.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.09.12-22.25.20:671][359]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.09.12-22.25.20:683][359]LogSavePackage: Moving output files for package: /Game/3620/3620
+[2024.09.12-22.25.20:684][359]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/3620077F4A8A48F9CC738BA287A49B3596AD.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/3620.umap'
+[2024.09.12-22.25.20:686][359]LogFileHelpers: All files are already saved.
+[2024.09.12-22.25.20:689][359]LogFileHelpers: Saving map '3620' took 0.054
+[2024.09.12-22.25.20:695][359]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.659 ms (total: 1.15 sec)
+[2024.09.12-22.25.20:734][359]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.12-22.25.20:734][359]LogContentValidation: Enabled validators:
+[2024.09.12-22.25.20:734][359]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.12-22.25.20:734][359]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.12-22.25.20:734][359]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.12-22.25.20:734][359]LogContentValidation: Display: Validating asset /Game/3620/3620.3620
+[2024.09.12-22.25.20:734][359]AssetCheck: /Game/3620/3620 Validating asset
