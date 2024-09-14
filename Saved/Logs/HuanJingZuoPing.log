@@ -1178,3 +1178,766 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2024.09.14-21.12.36:912][967]LogShaderCompilers: Display: Worker (4/9) finished batch of 10 jobs in 84.440s, FRenderVolumetricCloudRenderViewCS [WorkerTime=15.647s], FRenderVolumetricCloudRenderViewCS [WorkerTime=15.555s], FRenderVolumetricCloudRenderViewCS [WorkerTime=13.626s], FRenderVolumetricCloudRenderViewCS [WorkerTime=11.652s], FRenderVolumetricCloudRenderViewCS [WorkerTime=10.354s], FRenderVolumetricCloudRenderViewCS [WorkerTime=6.172s], FRenderVolumetricCloudRenderViewCS [WorkerTime=5.415s], FDebugViewModePS [WorkerTime=3.890s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=1.426s], FDebugViewModeVS [WorkerTime=0.652s]
 [2024.09.14-21.12.41:908][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
 [2024.09.14-21.12.43:185][613]LogShaderCompilers: Display: Worker (8/9) finished batch of 10 jobs in 90.713s, FRenderVolumetricCloudRenderViewCS [WorkerTime=11.697s], FRenderVolumetricCloudRenderViewCS [WorkerTime=11.693s], FRenderVolumetricCloudRenderViewCS [WorkerTime=11.514s], FRenderVolumetricCloudRenderViewCS [WorkerTime=10.274s], FRenderVolumetricCloudRenderViewCS [WorkerTime=9.605s], FCloudRenderViewPS001 [WorkerTime=8.514s], FRenderVolumetricCloudRenderViewCS [WorkerTime=7.579s], FRenderVolumetricCloudRenderViewCS [WorkerTime=7.184s], FRenderVolumetricCloudRenderViewCS [WorkerTime=6.304s], FRenderVolumetricCloudRenderViewCS [WorkerTime=6.245s]
+[2024.09.14-21.12.55:136][ 35]LogShaderCompilers: Display: Worker (6/9) finished batch of 10 jobs in 102.663s, FRenderVolumetricCloudRenderViewCS [WorkerTime=16.119s], FRenderVolumetricCloudRenderViewCS [WorkerTime=12.195s], FRenderVolumetricCloudRenderViewCS [WorkerTime=11.823s], FRenderVolumetricCloudRenderViewCS [WorkerTime=11.165s], FRenderVolumetricCloudRenderViewCS [WorkerTime=10.850s], FRenderVolumetricCloudRenderViewCS [WorkerTime=10.715s], FRenderVolumetricCloudRenderViewCS [WorkerTime=10.600s], FRenderVolumetricCloudRenderViewCS [WorkerTime=9.379s], FRenderVolumetricCloudRenderViewCS [WorkerTime=8.759s], TBasePassVSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=0.989s]
+[2024.09.14-21.12.56:953][252]LogShaderCompilers: Display: Worker (5/9) finished batch of 10 jobs in 104.481s, FRenderVolumetricCloudRenderViewCS [WorkerTime=17.201s], FRenderVolumetricCloudRenderViewCS [WorkerTime=16.468s], FRenderVolumetricCloudRenderViewCS [WorkerTime=16.289s], FRenderVolumetricCloudRenderViewCS [WorkerTime=13.273s], FRenderVolumetricCloudRenderViewCS [WorkerTime=12.469s], FRenderVolumetricCloudRenderViewCS [WorkerTime=11.475s], FRenderVolumetricCloudRenderViewCS [WorkerTime=8.906s], FRenderVolumetricCloudRenderViewCS [WorkerTime=6.477s], TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight [WorkerTime=1.317s], TVoxelizeVolumeGS<VMode_Object_Box> [WorkerTime=0.475s]
+[2024.09.14-21.13.46:136][997]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_0'.
+[2024.09.14-21.13.49:277][257]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2024.09.14-21.13.52:608][482]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\19573\Desktop\WegonWheel.fbx)
+[2024.09.14-21.13.52:631][482]LogFbx: Loading FBX Scene from C:\Users\19573\Desktop\WegonWheel.fbx
+[2024.09.14-21.13.52:706][482]LogFbx: FBX Scene Loaded Succesfully
+[2024.09.14-21.13.53:642][482]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.09.14-21.13.53:732][482]LogFbx: Display: Triangulating static mesh pCube59
+[2024.09.14-21.13.53:739][482]LogStaticMesh: Display: Building static mesh WegonWheel_pCube59 (Required Memory Estimate: 0.155745 MB)...
+[2024.09.14-21.13.53:740][482]LogStaticMesh: Built static mesh [0.00s] /Game/3620/Model/WegonWheel_pCube59.WegonWheel_pCube59
+[2024.09.14-21.13.53:747][482]LogFbx: Display: Triangulating static mesh pCube60
+[2024.09.14-21.13.53:750][482]LogStaticMesh: Display: Building static mesh WegonWheel_pCube60 (Required Memory Estimate: 0.155745 MB)...
+[2024.09.14-21.13.53:751][482]LogStaticMesh: Built static mesh [0.00s] /Game/3620/Model/WegonWheel_pCube60.WegonWheel_pCube60
+[2024.09.14-21.13.53:755][482]LogFbx: Display: Triangulating static mesh pCube61
+[2024.09.14-21.13.53:758][482]LogStaticMesh: Display: Building static mesh WegonWheel_pCube61 (Required Memory Estimate: 0.155745 MB)...
+[2024.09.14-21.13.53:759][482]LogStaticMesh: Built static mesh [0.00s] /Game/3620/Model/WegonWheel_pCube61.WegonWheel_pCube61
+[2024.09.14-21.13.53:763][482]LogFbx: Display: Triangulating static mesh pCube62
+[2024.09.14-21.13.53:766][482]LogStaticMesh: Display: Building static mesh WegonWheel_pCube62 (Required Memory Estimate: 0.155745 MB)...
+[2024.09.14-21.13.53:768][482]LogStaticMesh: Built static mesh [0.00s] /Game/3620/Model/WegonWheel_pCube62.WegonWheel_pCube62
+[2024.09.14-21.13.53:771][482]LogFbx: Display: Triangulating static mesh pCube63
+[2024.09.14-21.13.53:774][482]LogStaticMesh: Display: Building static mesh WegonWheel_pCube63 (Required Memory Estimate: 0.155745 MB)...
+[2024.09.14-21.13.53:775][482]LogStaticMesh: Built static mesh [0.00s] /Game/3620/Model/WegonWheel_pCube63.WegonWheel_pCube63
+[2024.09.14-21.13.53:780][482]LogFbx: Display: Triangulating static mesh pCube64
+[2024.09.14-21.13.53:782][482]LogStaticMesh: Display: Building static mesh WegonWheel_pCube64 (Required Memory Estimate: 0.155745 MB)...
+[2024.09.14-21.13.53:782][482]LogStaticMesh: Built static mesh [0.00s] /Game/3620/Model/WegonWheel_pCube64.WegonWheel_pCube64
+[2024.09.14-21.13.53:787][482]LogFbx: Display: Triangulating static mesh pCube65
+[2024.09.14-21.13.53:790][482]LogStaticMesh: Display: Building static mesh WegonWheel_pCube65 (Required Memory Estimate: 0.155745 MB)...
+[2024.09.14-21.13.53:791][482]LogStaticMesh: Built static mesh [0.00s] /Game/3620/Model/WegonWheel_pCube65.WegonWheel_pCube65
+[2024.09.14-21.13.53:795][482]LogFbx: Display: Triangulating static mesh pCube67
+[2024.09.14-21.13.53:798][482]LogStaticMesh: Display: Building static mesh WegonWheel_pCube67 (Required Memory Estimate: 0.155745 MB)...
+[2024.09.14-21.13.53:799][482]LogStaticMesh: Built static mesh [0.00s] /Game/3620/Model/WegonWheel_pCube67.WegonWheel_pCube67
+[2024.09.14-21.13.53:803][482]LogFbx: Display: Triangulating static mesh pCube145
+[2024.09.14-21.13.54:275][482]LogStaticMesh: Display: Building static mesh WegonWheel_pCube145 (Required Memory Estimate: 45.244493 MB)...
+[2024.09.14-21.13.54:278][482]LogStaticMeshOperations: Display: Mesh WegonWheel_pCube145 has NaNs in it's vertex instance uvs! Offending uvs are set to zero.
+[2024.09.14-21.13.54:733][482]LogStaticMesh: Built static mesh [0.46s] /Game/3620/Model/WegonWheel_pCube145.WegonWheel_pCube145
+[2024.09.14-21.13.54:779][482]LogStaticMesh: Warning: WegonWheel_pCube145 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.09.14-21.13.54:779][482]LogStaticMesh: Warning: WegonWheel_pCube145 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.09.14-21.13.54:844][482]FBXImport: FBX File Loading: Found name clash, node 'polySurface2' was renamed to 'polySurface21' 
+[2024.09.14-21.13.54:844][482]FBXImport: FBX File Loading: Found name clash, node 'polySurface5' was renamed to 'polySurface52' 
+[2024.09.14-21.13.54:844][482]FBXImport: FBX File Loading: Found name clash, node 'polySurface11' was renamed to 'polySurface113' 
+[2024.09.14-21.13.54:844][482]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.09.14-21.13.54:844][482]FBXImport: Warning: WegonWheel_pCube145 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.09.14-21.13.54:844][482]FBXImport: Warning: WegonWheel_pCube145 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.09.14-21.14.00:778][109]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3620/Model/WegonWheel_pCube67.WegonWheel_pCube67
+[2024.09.14-21.14.00:820][109]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2024.09.14-21.14.00:832][109]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2024.09.14-21.14.00:832][109]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2024.09.14-21.14.00:842][109]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2024.09.14-21.14.00:855][109]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.09.14-21.14.00:855][109]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2024.09.14-21.14.00:856][109]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2024.09.14-21.14.03:263][291]LogSlate: Window 'WegonWheel_pCube67' being destroyed
+[2024.09.14-21.14.03:292][291]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.09.14-21.14.03:292][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.14-21.14.03:307][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.09.14-21.14.05:053][478]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Model/WegonWheel_pCube67.WegonWheel_pCube67
+[2024.09.14-21.14.05:053][478]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Model/WegonWheel_pCube67.WegonWheel_pCube67
+[2024.09.14-21.14.05:054][478]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/Model/WegonWheel_pCube67.WegonWheel_pCube67 as actor: StaticMeshActor /Game/3620/Level/3620.3620:PersistentLevel.StaticMeshActor_0
+[2024.09.14-21.14.05:592][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.09.14-21.14.05:593][538]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2024.09.14-21.14.05:598][538]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Model/WegonWheel_pCube67.WegonWheel_pCube67
+[2024.09.14-21.14.05:598][538]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Model/WegonWheel_pCube67.WegonWheel_pCube67
+[2024.09.14-21.14.05:600][538]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/Model/WegonWheel_pCube67.WegonWheel_pCube67 as actor: StaticMeshActor /Game/3620/Level/3620.3620:PersistentLevel.StaticMeshActor_2
+[2024.09.14-21.14.11:906][272]Cmd: DELETE
+[2024.09.14-21.14.11:906][272]Cmd: ACTOR DELETE
+[2024.09.14-21.14.11:917][272]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.09.14-21.14.11:922][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.09.14-21.14.11:924][272]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: ================================================
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Total job queries 1,031, among them cache hits 20 (1.94%), DDC hits 14 (1.36%), Duplicates 215 (20.85%)
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Tracking 796 distinct input hashes that result in 607 distinct outputs (76.26%)
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: RAM used: 2.36 MiB of 1.60 GiB budget. Usage: 0.14%
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Shaders Compiled: 782
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Jobs assigned 782, completed 782 (100%)
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Average time worker was idle: 3.25 s
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Time job spent in pending queue: average 27.99 s, longest 99.52 s
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Job execution time: average 15.71 s, max 104.48 s
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Job life time (pending + execution): average 43.71 s, max 109.84
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Shader code size: average 9.904 KiB, min 196 B, max 69.516 KiB
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 188.06 s
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Jobs were issued in 155 batches (only local compilation was used), average 5.05 jobs/batch
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Average processing rate: 4.16 jobs/sec
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Total thread time: 1,464.613 s
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Total thread preprocess time: 13.938 s
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Percentage time preprocessing: 0.95%
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Effective parallelization: 7.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 10.50 sec, max 19.09 sec, min 4.43 sec)
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 9.30 sec, max 9.30 sec, min 9.30 sec)
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display:                                        FCloudRenderViewPS001 (compiled    1 times, average 8.51 sec, max 8.51 sec, min 8.51 sec)
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 7.87 sec, max 7.87 sec, min 7.87 sec)
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 7.48 sec, max 7.48 sec, min 7.48 sec)
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 48.74% of total time (compiled   68 times, average 10.50 sec, max 19.09 sec, min 4.43 sec)
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.06% of total time (compiled   18 times, average 3.31 sec, max 4.96 sec, min 2.30 sec)
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.40% of total time (compiled   35 times, average 1.00 sec, max 1.53 sec, min 0.61 sec)
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display:                                                  FVelocityPS - 2.19% of total time (compiled   26 times, average 1.23 sec, max 1.75 sec, min 0.77 sec)
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.00% of total time (compiled   22 times, average 1.33 sec, max 3.27 sec, min 0.82 sec)
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: === Material stats ===
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Materials Translated:    127
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Material Translation Only: 0.04 s (32%)
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: Material Cache Hits: 28 (22%)
+[2024.09.14-21.14.12:363][321]LogShaderCompilers: Display: ================================================
+[2024.09.14-21.14.13:851][491]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3620/Model/WegonWheel_pCube145.WegonWheel_pCube145
+[2024.09.14-21.14.13:885][491]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_3'.
+[2024.09.14-21.14.16:683][765]LogSlate: Window 'WegonWheel_pCube145' being destroyed
+[2024.09.14-21.14.16:688][765]LogSlate: Window 'WegonWheel_pCube145' being destroyed
+[2024.09.14-21.14.16:707][765]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.09.14-21.14.16:707][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.14-21.14.16:719][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.09.14-21.14.18:282][935]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Model/WegonWheel_pCube145.WegonWheel_pCube145
+[2024.09.14-21.14.18:282][935]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Model/WegonWheel_pCube145.WegonWheel_pCube145
+[2024.09.14-21.14.18:283][935]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/Model/WegonWheel_pCube145.WegonWheel_pCube145 as actor: StaticMeshActor /Game/3620/Level/3620.3620:PersistentLevel.StaticMeshActor_3
+[2024.09.14-21.14.18:740][986]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.09.14-21.14.18:741][986]LogEditorActor: Deleted 0 Actors (0.005 secs)
+[2024.09.14-21.14.18:746][986]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Model/WegonWheel_pCube145.WegonWheel_pCube145
+[2024.09.14-21.14.18:746][986]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Model/WegonWheel_pCube145.WegonWheel_pCube145
+[2024.09.14-21.14.18:747][986]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/Model/WegonWheel_pCube145.WegonWheel_pCube145 as actor: StaticMeshActor /Game/3620/Level/3620.3620:PersistentLevel.StaticMeshActor_4
+[2024.09.14-21.14.47:667][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.14-21.14.47:678][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.14-21.14.47:689][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.14-21.14.47:701][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.14-21.14.54:967][835]LogSlate: Window 'Viewport 2' being destroyed
+[2024.09.14-21.16.33:462][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.09.14-21.16.34:235][355]LogSlate: Window 'Save Content' being destroyed
+[2024.09.14-21.16.34:247][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.14-21.16.34:277][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Level/3620" FILE="D:/Isabel/Content/3620/Level/3620.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.09.14-21.16.34:310][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2024.09.14-21.16.34:323][355]LogSavePackage: Moving output files for package: /Game/3620/Level/3620
+[2024.09.14-21.16.34:323][355]LogSavePackage: Moving 'D:/Isabel/Saved/3620700246274F5305E246C13A8DDC5754E5.tmp' to 'D:/Isabel/Content/3620/Level/3620.umap'
+[2024.09.14-21.16.34:328][355]LogFileHelpers: Saving map '3620' took 0.051
+[2024.09.14-21.16.34:329][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/Model/standardSurface1] ([1] browsable assets)...
+[2024.09.14-21.16.36:986][355]OBJ SavePackage:     Rendered thumbnail for [Material /Game/3620/Model/standardSurface1.standardSurface1]
+[2024.09.14-21.16.36:986][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Model/standardSurface1]
+[2024.09.14-21.16.36:986][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Model/standardSurface1" FILE="D:/Isabel/Content/3620/Model/standardSurface1.uasset" SILENT=true
+[2024.09.14-21.16.36:989][355]LogSavePackage: Moving output files for package: /Game/3620/Model/standardSurface1
+[2024.09.14-21.16.36:989][355]LogSavePackage: Moving 'D:/Isabel/Saved/standardSurface10965D455411C131A59FFED96CEF5788F.tmp' to 'D:/Isabel/Content/3620/Model/standardSurface1.uasset'
+[2024.09.14-21.16.36:991][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/Model/WegonWheel_pCube145] ([1] browsable assets)...
+[2024.09.14-21.16.37:001][355]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3620/Model/WegonWheel_pCube145.WegonWheel_pCube145]
+[2024.09.14-21.16.37:001][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Model/WegonWheel_pCube145]
+[2024.09.14-21.16.37:001][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Model/WegonWheel_pCube145" FILE="D:/Isabel/Content/3620/Model/WegonWheel_pCube145.uasset" SILENT=true
+[2024.09.14-21.16.37:016][355]LogSavePackage: Moving output files for package: /Game/3620/Model/WegonWheel_pCube145
+[2024.09.14-21.16.37:017][355]LogSavePackage: Moving 'D:/Isabel/Saved/WegonWheel_pCube145EBE80DB340F0FCB1E3B948AFCAC98FA4.tmp' to 'D:/Isabel/Content/3620/Model/WegonWheel_pCube145.uasset'
+[2024.09.14-21.16.37:021][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/Model/WegonWheel_pCube59] ([1] browsable assets)...
+[2024.09.14-21.16.37:032][355]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3620/Model/WegonWheel_pCube59.WegonWheel_pCube59]
+[2024.09.14-21.16.37:032][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Model/WegonWheel_pCube59]
+[2024.09.14-21.16.37:032][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Model/WegonWheel_pCube59" FILE="D:/Isabel/Content/3620/Model/WegonWheel_pCube59.uasset" SILENT=true
+[2024.09.14-21.16.37:035][355]LogSavePackage: Moving output files for package: /Game/3620/Model/WegonWheel_pCube59
+[2024.09.14-21.16.37:035][355]LogSavePackage: Moving 'D:/Isabel/Saved/WegonWheel_pCube5952E50974447C214B316A8BB3D96E2D0C.tmp' to 'D:/Isabel/Content/3620/Model/WegonWheel_pCube59.uasset'
+[2024.09.14-21.16.37:035][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/Model/WegonWheel_pCube60] ([1] browsable assets)...
+[2024.09.14-21.16.37:046][355]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3620/Model/WegonWheel_pCube60.WegonWheel_pCube60]
+[2024.09.14-21.16.37:046][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Model/WegonWheel_pCube60]
+[2024.09.14-21.16.37:046][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Model/WegonWheel_pCube60" FILE="D:/Isabel/Content/3620/Model/WegonWheel_pCube60.uasset" SILENT=true
+[2024.09.14-21.16.37:048][355]LogSavePackage: Moving output files for package: /Game/3620/Model/WegonWheel_pCube60
+[2024.09.14-21.16.37:048][355]LogSavePackage: Moving 'D:/Isabel/Saved/WegonWheel_pCube60B3AAE1A842C70B79C83DCE922101F627.tmp' to 'D:/Isabel/Content/3620/Model/WegonWheel_pCube60.uasset'
+[2024.09.14-21.16.37:048][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/Model/WegonWheel_pCube61] ([1] browsable assets)...
+[2024.09.14-21.16.37:059][355]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3620/Model/WegonWheel_pCube61.WegonWheel_pCube61]
+[2024.09.14-21.16.37:059][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Model/WegonWheel_pCube61]
+[2024.09.14-21.16.37:059][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Model/WegonWheel_pCube61" FILE="D:/Isabel/Content/3620/Model/WegonWheel_pCube61.uasset" SILENT=true
+[2024.09.14-21.16.37:060][355]LogSavePackage: Moving output files for package: /Game/3620/Model/WegonWheel_pCube61
+[2024.09.14-21.16.37:060][355]LogSavePackage: Moving 'D:/Isabel/Saved/WegonWheel_pCube61E5C602AE4289AB76DA630C9C29B70F94.tmp' to 'D:/Isabel/Content/3620/Model/WegonWheel_pCube61.uasset'
+[2024.09.14-21.16.37:061][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/Model/WegonWheel_pCube62] ([1] browsable assets)...
+[2024.09.14-21.16.37:071][355]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3620/Model/WegonWheel_pCube62.WegonWheel_pCube62]
+[2024.09.14-21.16.37:071][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Model/WegonWheel_pCube62]
+[2024.09.14-21.16.37:071][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Model/WegonWheel_pCube62" FILE="D:/Isabel/Content/3620/Model/WegonWheel_pCube62.uasset" SILENT=true
+[2024.09.14-21.16.37:073][355]LogSavePackage: Moving output files for package: /Game/3620/Model/WegonWheel_pCube62
+[2024.09.14-21.16.37:073][355]LogSavePackage: Moving 'D:/Isabel/Saved/WegonWheel_pCube62890A43DE4D294227BB803CA309C4EC64.tmp' to 'D:/Isabel/Content/3620/Model/WegonWheel_pCube62.uasset'
+[2024.09.14-21.16.37:074][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/Model/WegonWheel_pCube63] ([1] browsable assets)...
+[2024.09.14-21.16.37:083][355]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3620/Model/WegonWheel_pCube63.WegonWheel_pCube63]
+[2024.09.14-21.16.37:083][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Model/WegonWheel_pCube63]
+[2024.09.14-21.16.37:083][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Model/WegonWheel_pCube63" FILE="D:/Isabel/Content/3620/Model/WegonWheel_pCube63.uasset" SILENT=true
+[2024.09.14-21.16.37:085][355]LogSavePackage: Moving output files for package: /Game/3620/Model/WegonWheel_pCube63
+[2024.09.14-21.16.37:085][355]LogSavePackage: Moving 'D:/Isabel/Saved/WegonWheel_pCube637FE4625C418DA9779D569B9E774445A7.tmp' to 'D:/Isabel/Content/3620/Model/WegonWheel_pCube63.uasset'
+[2024.09.14-21.16.37:086][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/Model/WegonWheel_pCube64] ([1] browsable assets)...
+[2024.09.14-21.16.37:095][355]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3620/Model/WegonWheel_pCube64.WegonWheel_pCube64]
+[2024.09.14-21.16.37:097][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Model/WegonWheel_pCube64]
+[2024.09.14-21.16.37:097][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Model/WegonWheel_pCube64" FILE="D:/Isabel/Content/3620/Model/WegonWheel_pCube64.uasset" SILENT=true
+[2024.09.14-21.16.37:099][355]LogSavePackage: Moving output files for package: /Game/3620/Model/WegonWheel_pCube64
+[2024.09.14-21.16.37:099][355]LogSavePackage: Moving 'D:/Isabel/Saved/WegonWheel_pCube6435C40F524CA2E0A79344F2A9B34B5A26.tmp' to 'D:/Isabel/Content/3620/Model/WegonWheel_pCube64.uasset'
+[2024.09.14-21.16.37:099][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/Model/WegonWheel_pCube65] ([1] browsable assets)...
+[2024.09.14-21.16.37:109][355]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3620/Model/WegonWheel_pCube65.WegonWheel_pCube65]
+[2024.09.14-21.16.37:109][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Model/WegonWheel_pCube65]
+[2024.09.14-21.16.37:109][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Model/WegonWheel_pCube65" FILE="D:/Isabel/Content/3620/Model/WegonWheel_pCube65.uasset" SILENT=true
+[2024.09.14-21.16.37:111][355]LogSavePackage: Moving output files for package: /Game/3620/Model/WegonWheel_pCube65
+[2024.09.14-21.16.37:111][355]LogSavePackage: Moving 'D:/Isabel/Saved/WegonWheel_pCube6523F888334BB53FC6E4DA589318CBB031.tmp' to 'D:/Isabel/Content/3620/Model/WegonWheel_pCube65.uasset'
+[2024.09.14-21.16.37:111][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/Model/WegonWheel_pCube67] ([1] browsable assets)...
+[2024.09.14-21.16.37:121][355]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3620/Model/WegonWheel_pCube67.WegonWheel_pCube67]
+[2024.09.14-21.16.37:122][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Model/WegonWheel_pCube67]
+[2024.09.14-21.16.37:122][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Model/WegonWheel_pCube67" FILE="D:/Isabel/Content/3620/Model/WegonWheel_pCube67.uasset" SILENT=true
+[2024.09.14-21.16.37:124][355]LogSavePackage: Moving output files for package: /Game/3620/Model/WegonWheel_pCube67
+[2024.09.14-21.16.37:124][355]LogSavePackage: Moving 'D:/Isabel/Saved/WegonWheel_pCube67F1165C7C4FA37EE8B287FAA17D718873.tmp' to 'D:/Isabel/Content/3620/Model/WegonWheel_pCube67.uasset'
+[2024.09.14-21.16.37:143][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.89 sec (total: 3.03 sec)
+[2024.09.14-21.16.37:167][355]LogContentValidation: Display: Starting to validate 11 assets
+[2024.09.14-21.16.37:167][355]LogContentValidation: Enabled validators:
+[2024.09.14-21.16.37:167][355]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.14-21.16.37:167][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.14-21.16.37:167][355]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.14-21.16.37:167][355]LogContentValidation: Display: Validating asset /Game/3620/Level/3620.3620
+[2024.09.14-21.16.37:167][355]AssetCheck: /Game/3620/Level/3620 Validating asset
+[2024.09.14-21.16.37:167][355]LogContentValidation: Display: Validating asset /Game/3620/Model/standardSurface1.standardSurface1
+[2024.09.14-21.16.37:167][355]AssetCheck: /Game/3620/Model/standardSurface1 Validating asset
+[2024.09.14-21.16.37:167][355]LogContentValidation: Display: Validating asset /Game/3620/Model/WegonWheel_pCube145.WegonWheel_pCube145
+[2024.09.14-21.16.37:167][355]AssetCheck: /Game/3620/Model/WegonWheel_pCube145 Validating asset
+[2024.09.14-21.16.37:167][355]LogContentValidation: Display: Validating asset /Game/3620/Model/WegonWheel_pCube59.WegonWheel_pCube59
+[2024.09.14-21.16.37:167][355]AssetCheck: /Game/3620/Model/WegonWheel_pCube59 Validating asset
+[2024.09.14-21.16.37:167][355]LogContentValidation: Display: Validating asset /Game/3620/Model/WegonWheel_pCube60.WegonWheel_pCube60
+[2024.09.14-21.16.37:167][355]AssetCheck: /Game/3620/Model/WegonWheel_pCube60 Validating asset
+[2024.09.14-21.16.37:167][355]LogContentValidation: Display: Validating asset /Game/3620/Model/WegonWheel_pCube61.WegonWheel_pCube61
+[2024.09.14-21.16.37:167][355]AssetCheck: /Game/3620/Model/WegonWheel_pCube61 Validating asset
+[2024.09.14-21.16.37:167][355]LogContentValidation: Display: Validating asset /Game/3620/Model/WegonWheel_pCube62.WegonWheel_pCube62
+[2024.09.14-21.16.37:169][355]AssetCheck: /Game/3620/Model/WegonWheel_pCube62 Validating asset
+[2024.09.14-21.16.37:169][355]LogContentValidation: Display: Validating asset /Game/3620/Model/WegonWheel_pCube63.WegonWheel_pCube63
+[2024.09.14-21.16.37:169][355]AssetCheck: /Game/3620/Model/WegonWheel_pCube63 Validating asset
+[2024.09.14-21.16.37:169][355]LogContentValidation: Display: Validating asset /Game/3620/Model/WegonWheel_pCube64.WegonWheel_pCube64
+[2024.09.14-21.16.37:169][355]AssetCheck: /Game/3620/Model/WegonWheel_pCube64 Validating asset
+[2024.09.14-21.16.37:169][355]LogContentValidation: Display: Validating asset /Game/3620/Model/WegonWheel_pCube65.WegonWheel_pCube65
+[2024.09.14-21.16.37:169][355]AssetCheck: /Game/3620/Model/WegonWheel_pCube65 Validating asset
+[2024.09.14-21.16.37:169][355]LogContentValidation: Display: Validating asset /Game/3620/Model/WegonWheel_pCube67.WegonWheel_pCube67
+[2024.09.14-21.16.37:169][355]AssetCheck: /Game/3620/Model/WegonWheel_pCube67 Validating asset
+[2024.09.14-21.16.40:514][655]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3620/Model/WegonWheel_pCube59.WegonWheel_pCube59
+[2024.09.14-21.16.40:551][655]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_4'.
+[2024.09.14-21.16.44:727][ 36]LogSlate: Window 'WegonWheel_pCube59' being destroyed
+[2024.09.14-21.16.44:732][ 36]LogSlate: Window 'WegonWheel_pCube59' being destroyed
+[2024.09.14-21.16.44:752][ 36]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.09.14-21.16.44:752][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.14-21.16.44:765][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: ================================================
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Total job queries 1,057, among them cache hits 27 (2.55%), DDC hits 14 (1.32%), Duplicates 215 (20.34%)
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Tracking 815 distinct input hashes that result in 625 distinct outputs (76.69%)
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: RAM used: 2.40 MiB of 1.60 GiB budget. Usage: 0.15%
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Shaders Compiled: 801
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Jobs assigned 801, completed 801 (100%)
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Average time worker was idle: 10.98 s
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Time job spent in pending queue: average 27.33 s, longest 99.52 s
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Job execution time: average 15.37 s, max 104.48 s
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Job life time (pending + execution): average 42.70 s, max 109.84
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Shader code size: average 9.807 KiB, min 196 B, max 69.516 KiB
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 193.58 s
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Jobs were issued in 174 batches (only local compilation was used), average 4.60 jobs/batch
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Average processing rate: 4.14 jobs/sec
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Total thread time: 1,481.369 s
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Total thread preprocess time: 14.242 s
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Percentage time preprocessing: 0.96%
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Effective parallelization: 7.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 10.50 sec, max 19.09 sec, min 4.43 sec)
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 9.30 sec, max 9.30 sec, min 9.30 sec)
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display:                                        FCloudRenderViewPS001 (compiled    1 times, average 8.51 sec, max 8.51 sec, min 8.51 sec)
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 7.87 sec, max 7.87 sec, min 7.87 sec)
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 7.48 sec, max 7.48 sec, min 7.48 sec)
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 48.19% of total time (compiled   68 times, average 10.50 sec, max 19.09 sec, min 4.43 sec)
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.16% of total time (compiled   19 times, average 3.24 sec, max 4.96 sec, min 2.07 sec)
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.54% of total time (compiled   38 times, average 0.99 sec, max 1.53 sec, min 0.61 sec)
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display:                                                  FVelocityPS - 2.16% of total time (compiled   26 times, average 1.23 sec, max 1.75 sec, min 0.77 sec)
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.05% of total time (compiled   23 times, average 1.32 sec, max 3.27 sec, min 0.82 sec)
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: === Material stats ===
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Materials Translated:    127
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Material Translation Only: 0.04 s (32%)
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: Material Cache Hits: 28 (22%)
+[2024.09.14-21.17.12:495][514]LogShaderCompilers: Display: ================================================
+[2024.09.14-21.17.53:867][907]LogSlate: Window 'Message Log' being destroyed
+[2024.09.14-21.17.53:873][907]LogSlate: Window 'Message Log' being destroyed
+[2024.09.14-21.18.57:058][225]LogSlate: Window 'Color Picker' being destroyed
+[2024.09.14-21.19.24:214][870]LogSlate: Window 'Color Picker' being destroyed
+[2024.09.14-21.20.54:264][ 13]LogSlate: Window 'Color Picker' being destroyed
+[2024.09.14-21.21.03:997][859]LogSlate: External Image Picker: DecompressImage failed
+[2024.09.14-21.21.10:178][269]LogSlate: Took 0.006084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.09.14-21.21.50:134][576]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Pixio PX248P (NVIDIA High Definition Audio), InstanceID=1
+[2024.09.14-21.21.50:329][576]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=17848
+[2024.09.14-21.21.50:663][577]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{cc1927ef-2ad7-4c3f-b6d8-002ccf58c677}, Name=Pixio PX248P (NVIDIA High Definition Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=22.26
+[2024.09.14-21.21.50:664][577]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.09.14-21.21.50:666][577]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.09.14-21.22.32:329][809]LogSlate: Window 'Project Settings' being destroyed
+[2024.09.14-21.22.32:337][809]LogSlate: Window 'Project Settings' being destroyed
+[2024.09.14-21.23.03:356][230]LogSlate: Window 'Color Picker' being destroyed
+[2024.09.14-21.23.12:500][152]LogShaderCompilers: Display: ================================================
+[2024.09.14-21.23.12:500][152]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.14-21.23.12:500][152]LogShaderCompilers: Display: Total job queries 1,072, among them cache hits 27 (2.52%), DDC hits 14 (1.31%), Duplicates 215 (20.06%)
+[2024.09.14-21.23.12:500][152]LogShaderCompilers: Display: Tracking 830 distinct input hashes that result in 635 distinct outputs (76.51%)
+[2024.09.14-21.23.12:500][152]LogShaderCompilers: Display: RAM used: 2.42 MiB of 1.60 GiB budget. Usage: 0.15%
+[2024.09.14-21.23.12:500][152]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.14-21.23.12:500][152]LogShaderCompilers: Display: Shaders Compiled: 816
+[2024.09.14-21.23.12:500][152]LogShaderCompilers: Display: Jobs assigned 816, completed 816 (100%)
+[2024.09.14-21.23.12:500][152]LogShaderCompilers: Display: Average time worker was idle: 21.98 s
+[2024.09.14-21.23.12:500][152]LogShaderCompilers: Display: Time job spent in pending queue: average 26.84 s, longest 99.52 s
+[2024.09.14-21.23.12:500][152]LogShaderCompilers: Display: Job execution time: average 15.12 s, max 104.48 s
+[2024.09.14-21.23.12:500][152]LogShaderCompilers: Display: Job life time (pending + execution): average 41.96 s, max 109.84
+[2024.09.14-21.23.12:500][152]LogShaderCompilers: Display: Shader code size: average 9.67 KiB, min 196 B, max 69.516 KiB
+[2024.09.14-21.23.12:500][152]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 197.83 s
+[2024.09.14-21.23.12:500][152]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.09.14-21.23.12:500][152]LogShaderCompilers: Display: Jobs were issued in 189 batches (only local compilation was used), average 4.32 jobs/batch
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display: Average processing rate: 4.12 jobs/sec
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display: Total thread time: 1,495.884 s
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display: Total thread preprocess time: 14.457 s
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display: Percentage time preprocessing: 0.97%
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display: Effective parallelization: 7.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 10.50 sec, max 19.09 sec, min 4.43 sec)
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 9.30 sec, max 9.30 sec, min 9.30 sec)
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display:                                        FCloudRenderViewPS001 (compiled    1 times, average 8.51 sec, max 8.51 sec, min 8.51 sec)
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 7.87 sec, max 7.87 sec, min 7.87 sec)
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 7.48 sec, max 7.48 sec, min 7.48 sec)
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 47.73% of total time (compiled   68 times, average 10.50 sec, max 19.09 sec, min 4.43 sec)
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.12% of total time (compiled   19 times, average 3.24 sec, max 4.96 sec, min 2.07 sec)
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.68% of total time (compiled   41 times, average 0.98 sec, max 1.53 sec, min 0.60 sec)
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display:                                                  FVelocityPS - 2.33% of total time (compiled   28 times, average 1.24 sec, max 1.75 sec, min 0.77 sec)
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.03% of total time (compiled   23 times, average 1.32 sec, max 3.27 sec, min 0.82 sec)
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display: === Material stats ===
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display: Materials Translated:    127
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display: Material Translation Only: 0.04 s (32%)
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display: Material Cache Hits: 28 (22%)
+[2024.09.14-21.23.12:501][152]LogShaderCompilers: Display: ================================================
+[2024.09.14-21.23.51:906][407]LogSlate: Window 'Color Picker' being destroyed
+[2024.09.14-21.24.05:082][690]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.09.14-21.24.05:086][690]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.09.14-21.24.08:920][ 95]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.09.14-21.24.08:920][ 95]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2024.09.14-21.24.20:253][170]LogSlate: Window 'Color Picker' being destroyed
+[2024.09.14-21.24.35:622][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.09.14-21.24.36:441][941]LogSlate: Window 'Save Content' being destroyed
+[2024.09.14-21.24.36:450][941]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.14-21.24.36:478][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Level/3620" FILE="D:/Isabel/Content/3620/Level/3620.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.09.14-21.24.36:508][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.09.14-21.24.36:521][941]LogSavePackage: Moving output files for package: /Game/3620/Level/3620
+[2024.09.14-21.24.36:521][941]LogSavePackage: Moving 'D:/Isabel/Saved/3620CF74ED724E6DB06D4ADCA98055CF8E9F.tmp' to 'D:/Isabel/Content/3620/Level/3620.umap'
+[2024.09.14-21.24.36:529][941]LogFileHelpers: Saving map '3620' took 0.050
+[2024.09.14-21.24.36:540][941]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.093 ms (total: 3.12 sec)
+[2024.09.14-21.24.36:560][941]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.14-21.24.36:560][941]LogContentValidation: Enabled validators:
+[2024.09.14-21.24.36:560][941]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.14-21.24.36:560][941]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.14-21.24.36:560][941]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.14-21.24.36:560][941]LogContentValidation: Display: Validating asset /Game/3620/Level/3620.3620
+[2024.09.14-21.24.36:560][941]AssetCheck: /Game/3620/Level/3620 Validating asset
+[2024.09.14-21.24.37:747][ 74]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.14-21.24.37:764][ 74]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.14-21.24.37:770][ 74]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.09.14-21.24.37:770][ 74]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.09.14-21.24.37:772][ 74]LogPlayLevel: Creating play world package: /Game/3620/Level/UEDPIE_0_3620
+[2024.09.14-21.24.37:777][ 74]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005055s)
+[2024.09.14-21.24.37:777][ 74]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3620/Level/3620.3620 to /Game/3620/Level/UEDPIE_0_3620.3620 (0.005315s)
+[2024.09.14-21.24.37:782][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.09.14-21.24.37:784][ 74]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.14-21.24.37:785][ 74]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/3620/Level/UEDPIE_0_3620.3620'.
+[2024.09.14-21.24.37:785][ 74]LogPlayLevel: PIE: World Init took: (0.001934s)
+[2024.09.14-21.24.37:801][ 74]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.09.14-21.24.37:802][ 74]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.14-21.24.37:802][ 74]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.14-21.24.37:802][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.14-21.24.37:802][ 74]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.14-21.24.37:802][ 74]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.14-21.24.37:802][ 74]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.14-21.24.37:802][ 74]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.14-21.24.37:802][ 74]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.14-21.24.37:802][ 74]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.14-21.24.37:802][ 74]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.14-21.24.37:802][ 74]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.14-21.24.37:803][ 74]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.14-21.24.37:837][ 74]LogAudioMixer: Display: Using Audio Hardware Device Pixio PX248P (NVIDIA High Definition Audio)
+[2024.09.14-21.24.37:837][ 74]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.14-21.24.37:837][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.14-21.24.37:837][ 74]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.14-21.24.37:839][ 74]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.09.14-21.24.37:839][ 74]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.09.14-21.24.37:840][ 74]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.09.14-21.24.37:840][ 74]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.09.14-21.24.37:840][ 74]LogInit: FAudioDevice initialized with ID 2.
+[2024.09.14-21.24.37:840][ 74]LogAudio: Display: Audio Device (ID: 2) registered with world '3620'.
+[2024.09.14-21.24.37:840][ 74]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.09.14-21.24.37:844][ 74]LogLoad: Game class is 'GameModeBase'
+[2024.09.14-21.24.37:857][ 74]LogWorld: Bringing World /Game/3620/Level/UEDPIE_0_3620.3620 up for play (max tick rate 0) at 2024.09.14-15.24.37
+[2024.09.14-21.24.37:868][ 74]LogWorld: Bringing up level for play took: 0.021777
+[2024.09.14-21.24.37:870][ 74]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.09.14-21.24.37:874][ 74]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.09.14-21.24.37:917][ 74]PIE: Server logged in
+[2024.09.14-21.24.37:918][ 74]PIE: Play in editor total start time 0.164 seconds.
+[2024.09.14-21.24.41:320][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.14-21.24.41:320][469]LogWorld: BeginTearingDown for /Game/3620/Level/UEDPIE_0_3620
+[2024.09.14-21.24.41:321][469]LogWorld: UWorld::CleanupWorld for 3620, bSessionEnded=true, bCleanupResources=true
+[2024.09.14-21.24.41:323][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.14-21.24.41:323][469]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.14-21.24.41:323][469]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.14-21.24.41:327][469]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.14-21.24.41:328][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.14-21.24.41:332][469]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.14-21.24.41:332][469]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.09.14-21.24.41:334][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.09.14-21.24.41:335][469]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.09.14-21.24.41:344][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.09.14-21.24.41:424][470]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.09.14-21.24.46:989][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.14-21.24.46:989][976]LogPlayLevel: Creating play world package: /Game/3620/Level/UEDPIE_0_3620
+[2024.09.14-21.24.46:993][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003565s)
+[2024.09.14-21.24.46:993][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3620/Level/3620.3620 to /Game/3620/Level/UEDPIE_0_3620.3620 (0.003594s)
+[2024.09.14-21.24.46:997][976]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.09.14-21.24.47:000][976]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.14-21.24.47:000][976]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/3620/Level/UEDPIE_0_3620.3620'.
+[2024.09.14-21.24.47:000][976]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2024.09.14-21.24.47:015][976]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.09.14-21.24.47:015][976]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.14-21.24.47:015][976]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.14-21.24.47:016][976]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.14-21.24.47:016][976]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.14-21.24.47:016][976]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.14-21.24.47:016][976]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.14-21.24.47:016][976]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.14-21.24.47:016][976]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.14-21.24.47:016][976]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.14-21.24.47:016][976]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.14-21.24.47:016][976]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.14-21.24.47:017][976]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.14-21.24.47:050][976]LogAudioMixer: Display: Using Audio Hardware Device Pixio PX248P (NVIDIA High Definition Audio)
+[2024.09.14-21.24.47:050][976]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.14-21.24.47:050][976]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.14-21.24.47:050][976]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.14-21.24.47:050][976]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.09.14-21.24.47:050][976]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.09.14-21.24.47:051][976]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.09.14-21.24.47:051][976]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.09.14-21.24.47:051][976]LogInit: FAudioDevice initialized with ID 3.
+[2024.09.14-21.24.47:051][976]LogAudio: Display: Audio Device (ID: 3) registered with world '3620'.
+[2024.09.14-21.24.47:051][976]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.09.14-21.24.47:054][976]LogLoad: Game class is 'GameModeBase'
+[2024.09.14-21.24.47:065][976]LogWorld: Bringing World /Game/3620/Level/UEDPIE_0_3620.3620 up for play (max tick rate 0) at 2024.09.14-15.24.47
+[2024.09.14-21.24.47:067][976]LogWorld: Bringing up level for play took: 0.012267
+[2024.09.14-21.24.47:069][976]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.09.14-21.24.47:085][976]PIE: Server logged in
+[2024.09.14-21.24.47:086][976]PIE: Play in editor total start time 0.104 seconds.
+[2024.09.14-21.25.00:448][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.14-21.25.00:448][568]LogWorld: BeginTearingDown for /Game/3620/Level/UEDPIE_0_3620
+[2024.09.14-21.25.00:449][568]LogWorld: UWorld::CleanupWorld for 3620, bSessionEnded=true, bCleanupResources=true
+[2024.09.14-21.25.00:449][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.14-21.25.00:449][568]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.14-21.25.00:449][568]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.14-21.25.00:451][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.14-21.25.00:454][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.14-21.25.00:457][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.14-21.25.00:457][568]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.09.14-21.25.00:457][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.09.14-21.25.00:460][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.09.14-21.25.00:466][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.09.14-21.25.00:580][569]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.09.14-21.25.22:614][746]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.14-21.25.22:625][746]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.14-21.25.22:625][746]LogPlayLevel: Creating play world package: /Game/3620/Level/UEDPIE_0_3620
+[2024.09.14-21.25.22:630][746]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003937s)
+[2024.09.14-21.25.22:630][746]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3620/Level/3620.3620 to /Game/3620/Level/UEDPIE_0_3620.3620 (0.003967s)
+[2024.09.14-21.25.22:634][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.09.14-21.25.22:636][746]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.14-21.25.22:636][746]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/3620/Level/UEDPIE_0_3620.3620'.
+[2024.09.14-21.25.22:637][746]LogPlayLevel: PIE: World Init took: (0.000887s)
+[2024.09.14-21.25.22:652][746]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.09.14-21.25.22:652][746]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.14-21.25.22:652][746]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.14-21.25.22:652][746]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.14-21.25.22:652][746]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.14-21.25.22:652][746]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.14-21.25.22:652][746]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.14-21.25.22:652][746]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.14-21.25.22:652][746]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.14-21.25.22:652][746]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.14-21.25.22:652][746]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.14-21.25.22:652][746]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.14-21.25.22:654][746]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.14-21.25.22:684][746]LogAudioMixer: Display: Using Audio Hardware Device Pixio PX248P (NVIDIA High Definition Audio)
+[2024.09.14-21.25.22:685][746]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.14-21.25.22:685][746]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.14-21.25.22:685][746]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.14-21.25.22:685][746]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.09.14-21.25.22:685][746]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.09.14-21.25.22:686][746]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.09.14-21.25.22:687][746]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.09.14-21.25.22:687][746]LogInit: FAudioDevice initialized with ID 4.
+[2024.09.14-21.25.22:687][746]LogAudio: Display: Audio Device (ID: 4) registered with world '3620'.
+[2024.09.14-21.25.22:687][746]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.09.14-21.25.22:689][746]LogLoad: Game class is 'GameModeBase'
+[2024.09.14-21.25.22:700][746]LogWorld: Bringing World /Game/3620/Level/UEDPIE_0_3620.3620 up for play (max tick rate 0) at 2024.09.14-15.25.22
+[2024.09.14-21.25.22:701][746]LogWorld: Bringing up level for play took: 0.011769
+[2024.09.14-21.25.22:704][746]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2024.09.14-21.25.22:704][746]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.09.14-21.25.22:721][746]PIE: Server logged in
+[2024.09.14-21.25.22:722][746]PIE: Play in editor total start time 0.103 seconds.
+[2024.09.14-21.25.24:078][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.14-21.25.24:078][902]LogWorld: BeginTearingDown for /Game/3620/Level/UEDPIE_0_3620
+[2024.09.14-21.25.24:078][902]LogWorld: UWorld::CleanupWorld for 3620, bSessionEnded=true, bCleanupResources=true
+[2024.09.14-21.25.24:079][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.14-21.25.24:079][902]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.14-21.25.24:079][902]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.14-21.25.24:081][902]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.14-21.25.24:083][902]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.14-21.25.24:087][902]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.14-21.25.24:087][902]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.09.14-21.25.24:088][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.09.14-21.25.24:089][902]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.09.14-21.25.24:091][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.14-21.25.24:094][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.09.14-21.25.24:215][903]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2024.09.14-21.25.28:161][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.14-21.25.28:161][310]LogPlayLevel: Creating play world package: /Game/3620/Level/UEDPIE_0_3620
+[2024.09.14-21.25.28:164][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003311s)
+[2024.09.14-21.25.28:164][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3620/Level/3620.3620 to /Game/3620/Level/UEDPIE_0_3620.3620 (0.003337s)
+[2024.09.14-21.25.28:168][310]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.09.14-21.25.28:170][310]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.14-21.25.28:171][310]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/3620/Level/UEDPIE_0_3620.3620'.
+[2024.09.14-21.25.28:171][310]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2024.09.14-21.25.28:187][310]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.09.14-21.25.28:187][310]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.14-21.25.28:187][310]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.14-21.25.28:187][310]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.14-21.25.28:187][310]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.14-21.25.28:187][310]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.14-21.25.28:187][310]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.14-21.25.28:187][310]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.14-21.25.28:187][310]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.14-21.25.28:187][310]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.14-21.25.28:187][310]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.14-21.25.28:187][310]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.14-21.25.28:189][310]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.14-21.25.28:225][310]LogAudioMixer: Display: Using Audio Hardware Device Pixio PX248P (NVIDIA High Definition Audio)
+[2024.09.14-21.25.28:225][310]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.14-21.25.28:226][310]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.14-21.25.28:226][310]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.14-21.25.28:226][310]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.09.14-21.25.28:226][310]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.09.14-21.25.28:227][310]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.09.14-21.25.28:227][310]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.09.14-21.25.28:227][310]LogInit: FAudioDevice initialized with ID 5.
+[2024.09.14-21.25.28:227][310]LogAudio: Display: Audio Device (ID: 5) registered with world '3620'.
+[2024.09.14-21.25.28:228][310]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.09.14-21.25.28:230][310]LogLoad: Game class is 'GameModeBase'
+[2024.09.14-21.25.28:241][310]LogWorld: Bringing World /Game/3620/Level/UEDPIE_0_3620.3620 up for play (max tick rate 0) at 2024.09.14-15.25.28
+[2024.09.14-21.25.28:244][310]LogWorld: Bringing up level for play took: 0.012925
+[2024.09.14-21.25.28:245][310]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.09.14-21.25.28:262][310]PIE: Server logged in
+[2024.09.14-21.25.28:263][310]PIE: Play in editor total start time 0.109 seconds.
+[2024.09.14-21.25.42:509][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.14-21.25.42:509][  8]LogWorld: BeginTearingDown for /Game/3620/Level/UEDPIE_0_3620
+[2024.09.14-21.25.42:509][  8]LogWorld: UWorld::CleanupWorld for 3620, bSessionEnded=true, bCleanupResources=true
+[2024.09.14-21.25.42:510][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.14-21.25.42:510][  8]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.14-21.25.42:510][  8]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.14-21.25.42:513][  8]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.14-21.25.42:515][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.14-21.25.42:519][  8]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.14-21.25.42:519][  8]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.09.14-21.25.42:519][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.09.14-21.25.42:521][  8]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.09.14-21.25.42:526][  8]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.09.14-21.25.42:642][  9]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.09.14-21.25.59:324][712]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.14-21.26.00:151][777]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.14-21.26.11:253][961]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.09.14-21.26.11:271][962]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_5'.
+[2024.09.14-21.26.12:537][ 55]LogShaderCompilers: Display: ================================================
+[2024.09.14-21.26.12:537][ 55]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.14-21.26.12:537][ 55]LogShaderCompilers: Display: Total job queries 1,080, among them cache hits 31 (2.87%), DDC hits 14 (1.30%), Duplicates 215 (19.91%)
+[2024.09.14-21.26.12:537][ 55]LogShaderCompilers: Display: Tracking 834 distinct input hashes that result in 639 distinct outputs (76.62%)
+[2024.09.14-21.26.12:537][ 55]LogShaderCompilers: Display: RAM used: 2.43 MiB of 1.60 GiB budget. Usage: 0.15%
+[2024.09.14-21.26.12:537][ 55]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Shaders Compiled: 820
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Jobs assigned 820, completed 820 (100%)
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Average time worker was idle: 25.45 s
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Time job spent in pending queue: average 26.71 s, longest 99.52 s
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Job execution time: average 15.05 s, max 104.48 s
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Job life time (pending + execution): average 41.76 s, max 109.84
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Shader code size: average 9.635 KiB, min 196 B, max 69.516 KiB
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 198.96 s
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Jobs were issued in 193 batches (only local compilation was used), average 4.25 jobs/batch
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Average processing rate: 4.12 jobs/sec
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Total thread time: 1,497.294 s
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Total thread preprocess time: 14.515 s
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Percentage time preprocessing: 0.97%
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Effective parallelization: 7.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 10.50 sec, max 19.09 sec, min 4.43 sec)
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 9.30 sec, max 9.30 sec, min 9.30 sec)
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display:                                        FCloudRenderViewPS001 (compiled    1 times, average 8.51 sec, max 8.51 sec, min 8.51 sec)
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 7.87 sec, max 7.87 sec, min 7.87 sec)
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 7.48 sec, max 7.48 sec, min 7.48 sec)
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 47.68% of total time (compiled   68 times, average 10.50 sec, max 19.09 sec, min 4.43 sec)
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.11% of total time (compiled   19 times, average 3.24 sec, max 4.96 sec, min 2.07 sec)
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.67% of total time (compiled   41 times, average 0.98 sec, max 1.53 sec, min 0.60 sec)
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display:                                                  FVelocityPS - 2.33% of total time (compiled   28 times, average 1.24 sec, max 1.75 sec, min 0.77 sec)
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.03% of total time (compiled   23 times, average 1.32 sec, max 3.27 sec, min 0.82 sec)
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: === Material stats ===
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Materials Translated:    127
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Material Translation Only: 0.04 s (32%)
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: Material Cache Hits: 28 (22%)
+[2024.09.14-21.26.12:538][ 55]LogShaderCompilers: Display: ================================================
+[2024.09.14-21.26.20:371][758]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.14-21.26.20:382][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.14-21.26.20:382][758]LogPlayLevel: Creating play world package: /Game/3620/Level/UEDPIE_0_3620
+[2024.09.14-21.26.20:386][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003580s)
+[2024.09.14-21.26.20:386][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3620/Level/3620.3620 to /Game/3620/Level/UEDPIE_0_3620.3620 (0.003610s)
+[2024.09.14-21.26.20:396][758]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.09.14-21.26.20:399][758]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.14-21.26.20:399][758]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/3620/Level/UEDPIE_0_3620.3620'.
+[2024.09.14-21.26.20:400][758]LogPlayLevel: PIE: World Init took: (0.000992s)
+[2024.09.14-21.26.20:414][758]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.09.14-21.26.20:414][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.14-21.26.20:414][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.14-21.26.20:414][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.14-21.26.20:414][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.14-21.26.20:414][758]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.14-21.26.20:414][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.14-21.26.20:414][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.14-21.26.20:414][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.14-21.26.20:414][758]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.14-21.26.20:414][758]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.14-21.26.20:414][758]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.14-21.26.20:417][758]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.14-21.26.20:449][758]LogAudioMixer: Display: Using Audio Hardware Device Pixio PX248P (NVIDIA High Definition Audio)
+[2024.09.14-21.26.20:449][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.14-21.26.20:449][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.14-21.26.20:449][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.14-21.26.20:450][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.09.14-21.26.20:450][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.09.14-21.26.20:451][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.09.14-21.26.20:451][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.09.14-21.26.20:451][758]LogInit: FAudioDevice initialized with ID 6.
+[2024.09.14-21.26.20:451][758]LogAudio: Display: Audio Device (ID: 6) registered with world '3620'.
+[2024.09.14-21.26.20:451][758]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.09.14-21.26.20:454][758]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.09.14-21.26.20:466][758]LogWorld: Bringing World /Game/3620/Level/UEDPIE_0_3620.3620 up for play (max tick rate 0) at 2024.09.14-15.26.20
+[2024.09.14-21.26.20:467][758]LogWorld: Bringing up level for play took: 0.012349
+[2024.09.14-21.26.20:468][758]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.09.14-21.26.20:487][758]PIE: Server logged in
+[2024.09.14-21.26.20:488][758]PIE: Play in editor total start time 0.112 seconds.
+[2024.09.14-21.26.25:124][312]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, China) - (Keyboard).
+[2024.09.14-21.26.25:125][312]LogWindowsTextInputMethodSystem: Activated input method: Chinese (Simplified, China) - Microsoft Pinyin (TSF IME).
+[2024.09.14-21.26.29:159][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.14-21.26.29:159][792]LogWorld: BeginTearingDown for /Game/3620/Level/UEDPIE_0_3620
+[2024.09.14-21.26.29:159][792]LogWorld: UWorld::CleanupWorld for 3620, bSessionEnded=true, bCleanupResources=true
+[2024.09.14-21.26.29:160][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.14-21.26.29:160][792]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.14-21.26.29:160][792]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.14-21.26.29:164][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.14-21.26.29:165][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.14-21.26.29:170][792]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.14-21.26.29:170][792]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.09.14-21.26.29:170][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.09.14-21.26.29:171][792]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.09.14-21.26.29:175][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.14-21.26.29:178][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.09.14-21.26.29:255][793]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.09.14-21.27.08:103][742]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.09.14-21.27.08:116][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.09.14-21.27.08:116][742]LogPlayLevel: Creating play world package: /Game/3620/Level/UEDPIE_0_3620
+[2024.09.14-21.27.08:120][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004244s)
+[2024.09.14-21.27.08:120][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/3620/Level/3620.3620 to /Game/3620/Level/UEDPIE_0_3620.3620 (0.004275s)
+[2024.09.14-21.27.08:126][742]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.09.14-21.27.08:127][742]LogWorldMetrics: [UWorldMetricsSubsystem::Initialize]
+[2024.09.14-21.27.08:128][742]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Game/3620/Level/UEDPIE_0_3620.3620'.
+[2024.09.14-21.27.08:128][742]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2024.09.14-21.27.08:143][742]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.09.14-21.27.08:143][742]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.09.14-21.27.08:143][742]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.09.14-21.27.08:143][742]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.09.14-21.27.08:143][742]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.09.14-21.27.08:143][742]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.09.14-21.27.08:143][742]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.09.14-21.27.08:143][742]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.09.14-21.27.08:143][742]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.09.14-21.27.08:143][742]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.09.14-21.27.08:143][742]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.09.14-21.27.08:143][742]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.09.14-21.27.08:145][742]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.09.14-21.27.08:177][742]LogAudioMixer: Display: Using Audio Hardware Device Pixio PX248P (NVIDIA High Definition Audio)
+[2024.09.14-21.27.08:178][742]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.09.14-21.27.08:178][742]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.09.14-21.27.08:178][742]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.09.14-21.27.08:178][742]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.09.14-21.27.08:178][742]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.09.14-21.27.08:179][742]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.09.14-21.27.08:179][742]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.09.14-21.27.08:179][742]LogInit: FAudioDevice initialized with ID 7.
+[2024.09.14-21.27.08:180][742]LogAudio: Display: Audio Device (ID: 7) registered with world '3620'.
+[2024.09.14-21.27.08:180][742]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.09.14-21.27.08:182][742]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.09.14-21.27.08:193][742]LogWorld: Bringing World /Game/3620/Level/UEDPIE_0_3620.3620 up for play (max tick rate 0) at 2024.09.14-15.27.08
+[2024.09.14-21.27.08:194][742]LogWorld: Bringing up level for play took: 0.011268
+[2024.09.14-21.27.08:196][742]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2024.09.14-21.27.08:216][742]PIE: Server logged in
+[2024.09.14-21.27.08:217][742]PIE: Play in editor total start time 0.108 seconds.
+[2024.09.14-21.27.11:637][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.14-21.27.11:637][147]LogWorld: BeginTearingDown for /Game/3620/Level/UEDPIE_0_3620
+[2024.09.14-21.27.11:637][147]LogWorld: UWorld::CleanupWorld for 3620, bSessionEnded=true, bCleanupResources=true
+[2024.09.14-21.27.11:638][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.14-21.27.11:638][147]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.14-21.27.11:638][147]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.14-21.27.11:641][147]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.09.14-21.27.11:643][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.14-21.27.11:648][147]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.09.14-21.27.11:648][147]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.09.14-21.27.11:648][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.09.14-21.27.11:649][147]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.09.14-21.27.11:653][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.14-21.27.11:655][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.09.14-21.27.11:758][148]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: ================================================
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Total job queries 1,090, among them cache hits 31 (2.84%), DDC hits 14 (1.28%), Duplicates 215 (19.72%)
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Tracking 844 distinct input hashes that result in 643 distinct outputs (76.18%)
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: RAM used: 2.44 MiB of 1.60 GiB budget. Usage: 0.15%
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Shaders Compiled: 830
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Jobs assigned 830, completed 830 (100%)
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Average time worker was idle: 36.27 s
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Time job spent in pending queue: average 26.39 s, longest 99.52 s
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Job execution time: average 14.89 s, max 104.48 s
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Job life time (pending + execution): average 41.28 s, max 109.84
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Shader code size: average 9.573 KiB, min 196 B, max 69.516 KiB
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 202.36 s
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Jobs were issued in 203 batches (only local compilation was used), average 4.09 jobs/batch
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Average processing rate: 4.10 jobs/sec
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Total thread time: 1,509.465 s
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Total thread preprocess time: 14.662 s
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Percentage time preprocessing: 0.97%
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Effective parallelization: 7.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 10.50 sec, max 19.09 sec, min 4.43 sec)
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 9.30 sec, max 9.30 sec, min 9.30 sec)
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display:                                        FCloudRenderViewPS001 (compiled    1 times, average 8.51 sec, max 8.51 sec, min 8.51 sec)
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 7.87 sec, max 7.87 sec, min 7.87 sec)
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    1 times, average 7.48 sec, max 7.48 sec, min 7.48 sec)
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 47.30% of total time (compiled   68 times, average 10.50 sec, max 19.09 sec, min 4.43 sec)
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.08% of total time (compiled   19 times, average 3.24 sec, max 4.96 sec, min 2.07 sec)
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 2.85% of total time (compiled   43 times, average 1.00 sec, max 1.53 sec, min 0.60 sec)
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display:                                                  FVelocityPS - 2.31% of total time (compiled   28 times, average 1.24 sec, max 1.75 sec, min 0.77 sec)
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.01% of total time (compiled   23 times, average 1.32 sec, max 3.27 sec, min 0.82 sec)
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: === Material stats ===
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Materials Translated:    127
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Material Translation Only: 0.04 s (32%)
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: Material Cache Hits: 28 (22%)
+[2024.09.14-21.29.12:645][548]LogShaderCompilers: Display: ================================================
