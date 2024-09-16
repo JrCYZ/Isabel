@@ -1161,3 +1161,524 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.09.16-22.55.58:772][494]AssetCheck: /Game/3620/Level/3620 Validating asset
 [2024.09.16-22.55.58:772][494]LogContentValidation: Display: Validating asset /Game/3620/Level/_GENERATED/u1371722/Rectangle_A150EE2B.Rectangle_A150EE2B
 [2024.09.16-22.55.58:772][494]AssetCheck: /Game/3620/Level/_GENERATED/u1371722/Rectangle_A150EE2B Validating asset
+[2024.09.16-22.56.15:625][347]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u1371722\Desktop\Roman.fbx)
+[2024.09.16-22.56.15:632][347]LogFbx: Loading FBX Scene from C:\Users\u1371722\Desktop\Roman.fbx
+[2024.09.16-22.56.15:637][347]LogFbx: FBX Scene Loaded Succesfully
+[2024.09.16-22.56.16:489][347]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.09.16-22.56.16:532][347]LogFbx: Display: Triangulating static mesh pCylinder1
+[2024.09.16-22.56.16:535][347]LogStaticMesh: Display: Building static mesh Roman_pCylinder1 (Required Memory Estimate: 0.210906 MB)...
+[2024.09.16-22.56.16:538][347]LogStaticMesh: Built static mesh [0.00s] /Game/3620/Roman_pCylinder1.Roman_pCylinder1
+[2024.09.16-22.56.16:542][347]LogFbx: Display: Triangulating static mesh pCylinder2
+[2024.09.16-22.56.16:569][347]LogStaticMesh: Display: Building static mesh Roman_pCylinder2 (Required Memory Estimate: 3.095885 MB)...
+[2024.09.16-22.56.16:582][347]LogStaticMesh: Built static mesh [0.01s] /Game/3620/Roman_pCylinder2.Roman_pCylinder2
+[2024.09.16-22.56.16:584][347]LogStaticMesh: Warning: Roman_pCylinder2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.09.16-22.56.16:584][347]LogStaticMesh: Warning: Roman_pCylinder2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.09.16-22.56.16:636][347]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.09.16-22.56.16:636][347]FBXImport: Warning: Roman_pCylinder2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.09.16-22.56.16:636][347]FBXImport: Warning: Roman_pCylinder2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.09.16-22.56.18:163][524]LogSlate: Window 'Message Log' being destroyed
+[2024.09.16-22.56.18:165][524]LogSlate: Window 'Message Log' being destroyed
+[2024.09.16-22.56.24:006][196]Cmd: DELETE
+[2024.09.16-22.56.24:006][196]Cmd: ACTOR DELETE
+[2024.09.16-22.56.24:012][196]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.09.16-22.56.24:016][196]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.09.16-22.56.24:017][196]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2024.09.16-22.56.28:589][689]LogSlate: Window 'Viewport 2' being destroyed
+[2024.09.16-22.56.35:678][502]LogShaderCompilers: Display: Worker (5/12) finished batch of 9 jobs in 61.307s, FRenderVolumetricCloudRenderViewCS [WorkerTime=10.025s], FRenderVolumetricCloudRenderViewCS [WorkerTime=9.404s], FRenderVolumetricCloudRenderViewCS [WorkerTime=9.250s], FRenderVolumetricCloudRenderViewCS [WorkerTime=9.130s], FRenderVolumetricCloudRenderViewCS [WorkerTime=6.299s], FRenderVolumetricCloudRenderViewCS [WorkerTime=6.194s], FCloudRenderViewPS000 [WorkerTime=4.208s], FRenderVolumetricCloudRenderViewCS [WorkerTime=3.672s], FRenderVolumetricCloudRenderViewCS [WorkerTime=3.024s]
+[2024.09.16-22.56.35:678][502]LogShaderCompilers: Display: Worker (6/12) finished batch of 9 jobs in 61.307s, FRenderVolumetricCloudRenderViewCS [WorkerTime=11.464s], FRenderVolumetricCloudRenderViewCS [WorkerTime=9.983s], FRenderVolumetricCloudRenderViewCS [WorkerTime=8.419s], FCloudRenderViewPS011 [WorkerTime=6.649s], FRenderVolumetricCloudRenderViewCS [WorkerTime=6.477s], FRenderVolumetricCloudRenderViewCS [WorkerTime=6.123s], FCloudRenderViewPS101 [WorkerTime=5.817s], FRenderVolumetricCloudRenderViewCS [WorkerTime=5.491s], TVoxelizeVolumeVS<VMode_Primitive_Sphere> [WorkerTime=0.773s]
+[2024.09.16-22.56.35:795][504]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_1'.
+[2024.09.16-22.56.39:648][948]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2
+[2024.09.16-22.56.39:649][948]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2
+[2024.09.16-22.56.39:649][948]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2 as actor: StaticMeshActor /Game/3620/Level/3620.3620:PersistentLevel.StaticMeshActor_2
+[2024.09.16-22.56.39:663][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.09.16-22.56.39:664][949]LogEditorActor: Deleted 0 Actors (0.003 secs)
+[2024.09.16-22.56.39:686][951]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2
+[2024.09.16-22.56.39:687][951]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2
+[2024.09.16-22.56.39:687][951]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2 as actor: StaticMeshActor /Game/3620/Level/3620.3620:PersistentLevel.StaticMeshActor_3
+[2024.09.16-22.56.39:691][951]LogDerivedDataCache: C:/Users/u1371722/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.09.16-22.56.40:127][  3]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.09.16-22.56.40:127][  3]LogEditorActor: Deleted 0 Actors (0.003 secs)
+[2024.09.16-22.56.40:130][  3]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2
+[2024.09.16-22.56.40:130][  3]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2
+[2024.09.16-22.56.40:131][  3]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2 as actor: StaticMeshActor /Game/3620/Level/3620.3620:PersistentLevel.StaticMeshActor_6
+[2024.09.16-22.56.57:580][944]Cmd: DELETE
+[2024.09.16-22.56.57:580][944]Cmd: ACTOR DELETE
+[2024.09.16-22.56.57:582][944]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.09.16-22.56.57:585][944]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2024.09.16-22.56.57:586][944]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2024.09.16-22.56.57:596][944]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.09.16-22.57.04:635][750]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2
+[2024.09.16-22.57.04:635][750]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2
+[2024.09.16-22.57.04:635][750]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2 as actor: StaticMeshActor /Game/3620/Level/3620.3620:PersistentLevel.StaticMeshActor_7
+[2024.09.16-22.57.04:677][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.09.16-22.57.04:678][754]LogEditorActor: Deleted 0 Actors (0.003 secs)
+[2024.09.16-22.57.04:689][755]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2
+[2024.09.16-22.57.04:689][755]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2
+[2024.09.16-22.57.04:689][755]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2 as actor: StaticMeshActor /Game/3620/Level/3620.3620:PersistentLevel.StaticMeshActor_12
+[2024.09.16-22.57.05:072][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.09.16-22.57.05:073][800]LogEditorActor: Deleted 0 Actors (0.003 secs)
+[2024.09.16-22.57.05:075][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2
+[2024.09.16-22.57.05:075][800]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2
+[2024.09.16-22.57.05:076][800]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2 as actor: StaticMeshActor /Game/3620/Level/3620.3620:PersistentLevel.StaticMeshActor_25
+[2024.09.16-22.57.19:691][406]Cmd: TRANSACTION UNDO
+[2024.09.16-22.57.19:691][406]LogEditorTransaction: Undo Move Elements
+[2024.09.16-22.57.20:585][475]Cmd: ACTOR HIDE SELECTED
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: ================================================
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Total job queries 1,039, among them cache hits 12 (1.15%), DDC hits 14 (1.35%), Duplicates 219 (21.08%)
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Tracking 808 distinct input hashes that result in 618 distinct outputs (76.49%)
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: RAM used: 2.38 MiB of 1.60 GiB budget. Usage: 0.15%
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Shaders Compiled: 794
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Jobs assigned 794, completed 794 (100%)
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Average time worker was idle: 1.81 s
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Time job spent in pending queue: average 14.92 s, longest 46.06 s
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Job execution time: average 12.59 s, max 61.31 s
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Job life time (pending + execution): average 27.51 s, max 61.52
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Shader code size: average 9.781 KiB, min 196 B, max 69.516 KiB
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 117.82 s
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Jobs were issued in 174 batches (only local compilation was used), average 4.56 jobs/batch
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Average processing rate: 6.74 jobs/sec
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Total thread time: 1,173.045 s
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Total thread preprocess time: 10.283 s
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Percentage time preprocessing: 0.88%
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Effective parallelization: 9.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 7.22 sec, max 12.34 sec, min 3.02 sec)
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 6.65 sec, max 6.65 sec, min 6.65 sec)
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 6.43 sec, max 6.43 sec, min 6.43 sec)
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display:                                        FCloudRenderViewPS101 (compiled    1 times, average 5.82 sec, max 5.82 sec, min 5.82 sec)
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 5.74 sec, max 5.74 sec, min 5.74 sec)
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 41.87% of total time (compiled   68 times, average 7.22 sec, max 12.34 sec, min 3.02 sec)
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.81% of total time (compiled   18 times, average 3.13 sec, max 4.24 sec, min 1.98 sec)
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.31% of total time (compiled   37 times, average 1.05 sec, max 1.49 sec, min 0.71 sec)
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display:                                                  FVelocityPS - 2.99% of total time (compiled   26 times, average 1.35 sec, max 1.67 sec, min 1.03 sec)
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.11% of total time (compiled   22 times, average 1.13 sec, max 1.40 sec, min 0.66 sec)
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: === Material stats ===
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Materials Translated:    128
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Material Total Translate Time: 0.12 s
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Material Translation Only: 0.02 s (17%)
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: Material Cache Hits: 42 (33%)
+[2024.09.16-22.58.34:684][904]LogShaderCompilers: Display: ================================================
+[2024.09.16-23.00.16:107][515]LogEditorViewport: Clicking Background
+[2024.09.16-23.00.30:577][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.00.30:582][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.00.30:582][138]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'InvertedForeground'.'
+[2024.09.16-23.00.30:592][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.00.30:599][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.00.35:526][678]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.09.16-23.00.49:875][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.00.49:881][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.00.49:888][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.00.49:895][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.00.51:439][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.00.51:444][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.00.51:454][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.00.51:460][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.01:968][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.01:975][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.01:982][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.01:988][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.03:611][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.03:615][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.03:625][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.03:631][737]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.19:434][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.19:441][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.19:448][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.19:454][569]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.25:768][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.25:773][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.25:782][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.25:790][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.34:252][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.34:259][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.34:266][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.34:273][260]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.40:885][  8]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.16-23.01.42:179][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.42:183][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.42:193][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.42:199][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.43:719][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.43:726][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.43:733][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.43:739][331]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.01.46:723][685]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.16-23.01.48:201][829]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.16-23.01.50:519][ 79]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.16-23.01.53:598][385]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.16-23.01.54:193][442]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.16-23.01.56:359][678]Cmd: TRANSACTION UNDO
+[2024.09.16-23.01.56:359][678]LogEditorTransaction: Undo Clicking on Elements
+[2024.09.16-23.01.56:572][690]Cmd: TRANSACTION UNDO
+[2024.09.16-23.01.56:572][690]LogEditorTransaction: Undo Clicking on Elements
+[2024.09.16-23.01.56:782][700]Cmd: TRANSACTION UNDO
+[2024.09.16-23.01.56:782][700]LogEditorTransaction: Undo Clicking on Elements
+[2024.09.16-23.01.56:966][713]Cmd: TRANSACTION UNDO
+[2024.09.16-23.01.56:966][713]LogEditorTransaction: Undo Clicking on Elements
+[2024.09.16-23.01.57:156][733]Cmd: TRANSACTION UNDO
+[2024.09.16-23.01.57:156][733]LogEditorTransaction: Undo Move Elements
+[2024.09.16-23.01.57:415][764]Cmd: TRANSACTION UNDO
+[2024.09.16-23.01.57:415][764]LogEditorTransaction: Undo Move Elements
+[2024.09.16-23.01.57:682][796]Cmd: TRANSACTION UNDO
+[2024.09.16-23.01.57:682][796]LogEditorTransaction: Undo Clicking on Elements
+[2024.09.16-23.01.58:052][836]Cmd: TRANSACTION UNDO
+[2024.09.16-23.01.58:052][836]LogEditorTransaction: Undo Clicking on Elements
+[2024.09.16-23.01.58:319][865]Cmd: TRANSACTION UNDO
+[2024.09.16-23.01.58:319][865]LogEditorTransaction: Undo Move Elements
+[2024.09.16-23.01.58:753][917]Cmd: TRANSACTION UNDO
+[2024.09.16-23.01.58:753][917]LogEditorTransaction: Undo Rotate Elements
+[2024.09.16-23.01.59:029][950]Cmd: TRANSACTION UNDO
+[2024.09.16-23.01.59:029][950]LogEditorTransaction: Undo Rotate Elements
+[2024.09.16-23.01.59:313][984]Cmd: TRANSACTION UNDO
+[2024.09.16-23.01.59:313][984]LogEditorTransaction: Undo Clicking on Elements
+[2024.09.16-23.02.02:985][406]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2
+[2024.09.16-23.02.03:003][406]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2024.09.16-23.02.03:017][406]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2024.09.16-23.02.03:022][406]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2024.09.16-23.02.03:027][406]LogStaticMesh: Built static mesh [0.02s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2024.09.16-23.02.03:040][406]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2024.09.16-23.02.03:040][406]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Floor_Mesh) ...
+[2024.09.16-23.02.03:040][406]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2024.09.16-23.02.16:732][664]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/3620/Roman_pCylinder2) ...
+[2024.09.16-23.02.16:750][664]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/3620/Roman_pCylinder2) ...
+[2024.09.16-23.02.16:768][664]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/3620/Roman_pCylinder2) ...
+[2024.09.16-23.02.16:786][664]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/3620/Roman_pCylinder2) ...
+[2024.09.16-23.02.18:664][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.16-23.02.18:683][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/Roman_pCylinder2] ([1] browsable assets)...
+[2024.09.16-23.02.18:691][833]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3620/Roman_pCylinder2.Roman_pCylinder2]
+[2024.09.16-23.02.18:691][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Roman_pCylinder2]
+[2024.09.16-23.02.18:691][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Roman_pCylinder2" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Roman_pCylinder2.uasset" SILENT=true
+[2024.09.16-23.02.18:694][833]LogSavePackage: Moving output files for package: /Game/3620/Roman_pCylinder2
+[2024.09.16-23.02.18:694][833]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Roman_pCylinder2A75173C948D3F318C129168E99B0F582.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Roman_pCylinder2.uasset'
+[2024.09.16-23.02.18:699][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 34.794 ms (total: 228.590 ms)
+[2024.09.16-23.02.18:713][833]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.16-23.02.18:713][833]LogContentValidation: Enabled validators:
+[2024.09.16-23.02.18:713][833]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.16-23.02.18:713][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.16-23.02.18:713][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.16-23.02.18:713][833]LogContentValidation: Display: Validating asset /Game/3620/Roman_pCylinder2.Roman_pCylinder2
+[2024.09.16-23.02.18:713][833]AssetCheck: /Game/3620/Roman_pCylinder2 Validating asset
+[2024.09.16-23.02.19:813][937]LogSlate: Window 'Roman_pCylinder2' being destroyed
+[2024.09.16-23.02.23:021][306]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2024.09.16-23.02.30:657][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.02.30:662][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.02.30:671][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.02.30:678][157]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.04.35:147][138]LogShaderCompilers: Display: ================================================
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Total job queries 1,051, among them cache hits 18 (1.71%), DDC hits 14 (1.33%), Duplicates 219 (20.84%)
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Tracking 814 distinct input hashes that result in 622 distinct outputs (76.41%)
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: RAM used: 2.38 MiB of 1.60 GiB budget. Usage: 0.15%
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Shaders Compiled: 800
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Jobs assigned 800, completed 800 (100%)
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Average time worker was idle: 12.62 s
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Time job spent in pending queue: average 14.81 s, longest 46.06 s
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Job execution time: average 12.52 s, max 61.31 s
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Job life time (pending + execution): average 27.32 s, max 61.52
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Shader code size: average 9.737 KiB, min 196 B, max 69.516 KiB
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 120.54 s
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Jobs were issued in 180 batches (only local compilation was used), average 4.44 jobs/batch
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Average processing rate: 6.64 jobs/sec
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Total thread time: 1,176.959 s
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Total thread preprocess time: 10.384 s
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Percentage time preprocessing: 0.88%
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Effective parallelization: 9.76 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 7.22 sec, max 12.34 sec, min 3.02 sec)
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 6.65 sec, max 6.65 sec, min 6.65 sec)
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 6.43 sec, max 6.43 sec, min 6.43 sec)
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display:                                        FCloudRenderViewPS101 (compiled    1 times, average 5.82 sec, max 5.82 sec, min 5.82 sec)
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 5.74 sec, max 5.74 sec, min 5.74 sec)
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 41.73% of total time (compiled   68 times, average 7.22 sec, max 12.34 sec, min 3.02 sec)
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.79% of total time (compiled   18 times, average 3.13 sec, max 4.24 sec, min 1.98 sec)
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.44% of total time (compiled   39 times, average 1.04 sec, max 1.49 sec, min 0.71 sec)
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display:                                                  FVelocityPS - 2.98% of total time (compiled   26 times, average 1.35 sec, max 1.67 sec, min 1.03 sec)
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.11% of total time (compiled   22 times, average 1.13 sec, max 1.40 sec, min 0.66 sec)
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: === Material stats ===
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Materials Translated:    130
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Material Translation Only: 0.02 s (16%)
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: Material Cache Hits: 42 (32%)
+[2024.09.16-23.04.35:148][138]LogShaderCompilers: Display: ================================================
+[2024.09.16-23.05.58:861][389]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2024.09.16-23.05.58:872][389]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3620/Level/3620_Auto1
+[2024.09.16-23.05.58:872][389]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/3620_Auto18CA050444745EA70BB231795FFFCA906.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Autosaves/Game/3620/Level/3620_Auto1.umap'
+[2024.09.16-23.05.58:872][389]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Autosaves/Game/3620/Level/3620_Auto1.umap is in the /Temp path, will not scan.
+[2024.09.16-23.05.58:873][389]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/3620/Level/3620_Auto1 is in the /Temp path, will not scan.
+[2024.09.16-23.05.58:873][389]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/3620/Level/3620_Auto1 is in the /Temp path, will not scan.
+[2024.09.16-23.05.58:873][389]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3620/Level/3620' took 0.021
+[2024.09.16-23.05.58:873][389]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2024.09.16-23.05.58:873][389]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/Roman_pCylinder1] ([1] browsable assets)...
+[2024.09.16-23.05.58:919][389]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3620/Roman_pCylinder1.Roman_pCylinder1]
+[2024.09.16-23.05.58:919][389]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Roman_pCylinder1]
+[2024.09.16-23.05.58:921][389]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3620/Roman_pCylinder1_Auto1
+[2024.09.16-23.05.58:921][389]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Roman_pCylinder1_Auto1E600033548DEC95136C99BA7191FC4A4.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Autosaves/Game/3620/Roman_pCylinder1_Auto1.uasset'
+[2024.09.16-23.05.58:921][389]LogFileHelpers: Auto-saving content packages took 0.048
+[2024.09.16-23.07.35:486][614]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u1371722\Desktop\Roman_1.fbx)
+[2024.09.16-23.07.35:490][614]LogFbx: Loading FBX Scene from C:\Users\u1371722\Desktop\Roman_1.fbx
+[2024.09.16-23.07.35:493][614]LogFbx: FBX Scene Loaded Succesfully
+[2024.09.16-23.07.36:455][614]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.09.16-23.07.36:494][614]LogFbx: Display: Triangulating static mesh pCylinder1
+[2024.09.16-23.07.36:500][614]LogFbx: Display: Triangulating static mesh pCylinder2
+[2024.09.16-23.07.36:523][614]LogStaticMesh: Display: Building static mesh Roman_1_pCylinder2 (Required Memory Estimate: 3.001537 MB)...
+[2024.09.16-23.07.36:536][614]LogStaticMesh: Built static mesh [0.01s] /Game/3620/Roman_1_pCylinder2.Roman_1_pCylinder2
+[2024.09.16-23.07.36:537][614]LogStaticMesh: Warning: Roman_1_pCylinder2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.09.16-23.07.36:537][614]LogStaticMesh: Warning: Roman_1_pCylinder2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.09.16-23.07.36:579][614]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.09.16-23.07.36:579][614]FBXImport: Warning: Roman_1_pCylinder2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.09.16-23.07.36:579][614]FBXImport: Warning: Roman_1_pCylinder2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.09.16-23.07.37:808][757]LogSlate: Window 'Message Log' being destroyed
+[2024.09.16-23.07.37:812][757]LogSlate: Window 'Message Log' being destroyed
+[2024.09.16-23.07.42:912][334]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_1_pCylinder2.Roman_1_pCylinder2
+[2024.09.16-23.07.42:912][334]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_1_pCylinder2.Roman_1_pCylinder2
+[2024.09.16-23.07.42:912][334]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/Roman_1_pCylinder2.Roman_1_pCylinder2 as actor: StaticMeshActor /Game/3620/Level/3620.3620:PersistentLevel.StaticMeshActor_27
+[2024.09.16-23.07.43:475][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.09.16-23.07.43:476][399]LogEditorActor: Deleted 0 Actors (0.004 secs)
+[2024.09.16-23.07.43:479][399]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_1_pCylinder2.Roman_1_pCylinder2
+[2024.09.16-23.07.43:479][399]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_1_pCylinder2.Roman_1_pCylinder2
+[2024.09.16-23.07.43:480][399]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/Roman_1_pCylinder2.Roman_1_pCylinder2 as actor: StaticMeshActor /Game/3620/Level/3620.3620:PersistentLevel.StaticMeshActor_28
+[2024.09.16-23.07.52:430][422]Cmd: ACTOR HIDE SELECTED
+[2024.09.16-23.08.30:539][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.08.30:546][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.08.30:553][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.08.30:560][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.09.56:059][899]LogSlate: Window 'Viewport 3' being destroyed
+[2024.09.16-23.09.56:063][899]LogSlate: Window 'Viewport 3' being destroyed
+[2024.09.16-23.11.31:653][457]Cmd: SELECT NONE
+[2024.09.16-23.14.08:037][539]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u1371722\Desktop\Roman_2.fbx)
+[2024.09.16-23.14.08:040][539]LogFbx: Loading FBX Scene from C:\Users\u1371722\Desktop\Roman_2.fbx
+[2024.09.16-23.14.08:044][539]LogFbx: FBX Scene Loaded Succesfully
+[2024.09.16-23.14.09:127][539]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.09.16-23.14.09:168][539]LogFbx: Display: Triangulating static mesh pCylinder1
+[2024.09.16-23.14.09:175][539]LogFbx: Display: Triangulating static mesh pCylinder2
+[2024.09.16-23.14.09:196][539]LogStaticMesh: Display: Building static mesh Roman_2_pCylinder2 (Required Memory Estimate: 2.854939 MB)...
+[2024.09.16-23.14.09:208][539]LogStaticMesh: Built static mesh [0.01s] /Game/3620/Roman_2_pCylinder2.Roman_2_pCylinder2
+[2024.09.16-23.14.09:210][539]LogStaticMesh: Warning: Roman_2_pCylinder2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2024.09.16-23.14.09:210][539]LogStaticMesh: Warning: Roman_2_pCylinder2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.09.16-23.14.09:245][539]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.09.16-23.14.09:245][539]FBXImport: Warning: Roman_2_pCylinder2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2024.09.16-23.14.09:245][539]FBXImport: Warning: Roman_2_pCylinder2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2024.09.16-23.14.11:444][798]LogSlate: Window 'Message Log' being destroyed
+[2024.09.16-23.14.11:447][798]LogSlate: Window 'Message Log' being destroyed
+[2024.09.16-23.14.19:560][531]Cmd: ACTOR HIDE SELECTED
+[2024.09.16-23.14.23:195][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_1_pCylinder2.Roman_1_pCylinder2
+[2024.09.16-23.14.23:195][956]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_1_pCylinder2.Roman_1_pCylinder2
+[2024.09.16-23.14.23:195][956]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/Roman_1_pCylinder2.Roman_1_pCylinder2 as actor: StaticMeshActor /Game/3620/Level/3620.3620:PersistentLevel.StaticMeshActor_29
+[2024.09.16-23.14.23:887][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2024.09.16-23.14.23:889][ 37]LogEditorActor: Deleted 0 Actors (0.005 secs)
+[2024.09.16-23.14.23:894][ 37]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_1_pCylinder2.Roman_1_pCylinder2
+[2024.09.16-23.14.23:894][ 37]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/Roman_1_pCylinder2.Roman_1_pCylinder2
+[2024.09.16-23.14.23:895][ 37]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/Roman_1_pCylinder2.Roman_1_pCylinder2 as actor: StaticMeshActor /Game/3620/Level/3620.3620:PersistentLevel.StaticMeshActor_30
+[2024.09.16-23.14.36:167][426]Cmd: TRANSACTION UNDO
+[2024.09.16-23.14.36:167][426]LogEditorTransaction: Undo Scale Elements
+[2024.09.16-23.16.51:168][364]LogSlate: Window 'Viewport 2' being destroyed
+[2024.09.16-23.17.10:838][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.17.10:845][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.17.10:852][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.17.10:859][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.17.13:594][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.17.13:599][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.17.13:608][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.17.13:615][918]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.18.29:886][  3]LogCEFBrowser: CEF GPU acceleration enabled
+[2024.09.16-23.19.45:685][996]LogSlate: Window 'Login' being destroyed
+[2024.09.16-23.19.51:985][718]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Dried_Grass_On_Damp_Soil_scnmuvp0/T_Dried_Grass_On_Damp_Soil_scnmuvp0_2K_N.T_Dried_Grass_On_Damp_Soil_scnmuvp0_2K_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 487.562488 MB), EncodeSpeed: Fast
+[2024.09.16-23.19.51:997][719]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Dried_Grass_On_Damp_Soil_scnmuvp0/T_DriedGrassOnDampSoil_scnmuvp0_2K_ORDp.T_DriedGrassOnDampSoil_scnmuvp0_2K_ORDp (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 346.145823 MB), EncodeSpeed: Fast
+[2024.09.16-23.19.52:069][725]LogTexture: Display: Building textures: /Game/Megascans/Surfaces/Dried_Grass_On_Damp_Soil_scnmuvp0/T_Dried_Grass_On_Damp_Soil_scnmuvp0_2K_D.T_Dried_Grass_On_Damp_Soil_scnmuvp0_2K_D (TFO_DXT1, 2048x2048 x1x1x1) (Required Memory Estimate: 346.145823 MB), EncodeSpeed: Fast
+[2024.09.16-23.20.03:836][ 97]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.09.16-23.20.32:884][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.20.32:891][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.20.32:898][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.20.32:904][442]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.20.34:777][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.20.34:782][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.20.34:792][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.20.34:798][658]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.09.16-23.20.43:219][554]Cmd: TRANSACTION UNDO
+[2024.09.16-23.20.43:219][554]LogEditorTransaction: Undo Clicking on Elements
+[2024.09.16-23.21.47:459][927]Cmd: ACTOR HIDE SELECTED
+[2024.09.16-23.21.48:294][ 27]Cmd: ACTOR HIDE SELECTED
+[2024.09.16-23.21.49:203][136]Cmd: TRANSACTION UNDO
+[2024.09.16-23.21.49:203][136]LogEditorTransaction: Undo Hide Selected
+[2024.09.16-23.21.54:091][664]Cmd: ACTOR HIDE SELECTED
+[2024.09.16-23.21.57:407][ 57]Cmd: ACTOR HIDE SELECTED
+[2024.09.16-23.21.59:212][271]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.09.16-23.22.00:347][407]Cmd: ACTOR HIDE SELECTED
+[2024.09.16-23.22.01:936][595]Cmd: ACTOR HIDE SELECTED
+[2024.09.16-23.22.03:033][724]Cmd: ACTOR HIDE SELECTED
+[2024.09.16-23.22.25:342][206]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Megascans/Surfaces/Dried_Grass_On_Damp_Soil_scnmuvp0/T_Dried_Grass_On_Damp_Soil_scnmuvp0_2K_D.T_Dried_Grass_On_Damp_Soil_scnmuvp0_2K_D
+[2024.09.16-23.22.27:881][487]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Dried_Grass_On_Damp_Soil_scnmuvp0/MI_Dried_Grass_On_Damp_Soil_scnmuvp0_2K.MI_Dried_Grass_On_Damp_Soil_scnmuvp0_2K
+[2024.09.16-23.22.27:894][487]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_3'.
+[2024.09.16-23.22.29:560][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.09.16-23.22.30:277][662]LogSlate: Window 'Save Content' being destroyed
+[2024.09.16-23.22.30:284][662]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.16-23.22.30:300][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Level/3620" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Level/3620.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.09.16-23.22.30:331][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.09.16-23.22.30:340][662]LogSavePackage: Moving output files for package: /Game/3620/Level/3620
+[2024.09.16-23.22.30:341][662]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/362044222FEF454F92A7AC42CD93948FD2D1.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Level/3620.umap'
+[2024.09.16-23.22.30:343][662]LogFileHelpers: All files are already saved.
+[2024.09.16-23.22.30:345][662]LogFileHelpers: Saving map '3620' took 0.044
+[2024.09.16-23.22.30:345][662]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/Roman_1_pCylinder1] ([1] browsable assets)...
+[2024.09.16-23.22.30:356][662]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3620/Roman_1_pCylinder1.Roman_1_pCylinder1]
+[2024.09.16-23.22.30:356][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Roman_1_pCylinder1]
+[2024.09.16-23.22.30:356][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Roman_1_pCylinder1" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Roman_1_pCylinder1.uasset" SILENT=true
+[2024.09.16-23.22.30:358][662]LogSavePackage: Moving output files for package: /Game/3620/Roman_1_pCylinder1
+[2024.09.16-23.22.30:358][662]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Roman_1_pCylinder1A648A39840C6E106332830BA53EFD869.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Roman_1_pCylinder1.uasset'
+[2024.09.16-23.22.30:360][662]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/Roman_1_pCylinder2] ([1] browsable assets)...
+[2024.09.16-23.22.30:367][662]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3620/Roman_1_pCylinder2.Roman_1_pCylinder2]
+[2024.09.16-23.22.30:367][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Roman_1_pCylinder2]
+[2024.09.16-23.22.30:367][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Roman_1_pCylinder2" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Roman_1_pCylinder2.uasset" SILENT=true
+[2024.09.16-23.22.30:370][662]LogSavePackage: Moving output files for package: /Game/3620/Roman_1_pCylinder2
+[2024.09.16-23.22.30:370][662]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Roman_1_pCylinder26581A5364ADEFDC70031E39103C6A0BB.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Roman_1_pCylinder2.uasset'
+[2024.09.16-23.22.30:370][662]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/Roman_2_pCylinder1] ([1] browsable assets)...
+[2024.09.16-23.22.30:376][662]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3620/Roman_2_pCylinder1.Roman_2_pCylinder1]
+[2024.09.16-23.22.30:376][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Roman_2_pCylinder1]
+[2024.09.16-23.22.30:376][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Roman_2_pCylinder1" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Roman_2_pCylinder1.uasset" SILENT=true
+[2024.09.16-23.22.30:378][662]LogSavePackage: Moving output files for package: /Game/3620/Roman_2_pCylinder1
+[2024.09.16-23.22.30:378][662]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Roman_2_pCylinder13CB1328D48B88D4BDE802AA2761CC764.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Roman_2_pCylinder1.uasset'
+[2024.09.16-23.22.30:379][662]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/Roman_2_pCylinder2] ([1] browsable assets)...
+[2024.09.16-23.22.30:385][662]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3620/Roman_2_pCylinder2.Roman_2_pCylinder2]
+[2024.09.16-23.22.30:385][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Roman_2_pCylinder2]
+[2024.09.16-23.22.30:385][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Roman_2_pCylinder2" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Roman_2_pCylinder2.uasset" SILENT=true
+[2024.09.16-23.22.30:388][662]LogSavePackage: Moving output files for package: /Game/3620/Roman_2_pCylinder2
+[2024.09.16-23.22.30:388][662]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Roman_2_pCylinder27900B0E349D7B013E83013A9CF31A5E2.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Roman_2_pCylinder2.uasset'
+[2024.09.16-23.22.30:389][662]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/3620/Roman_pCylinder1] ([1] browsable assets)...
+[2024.09.16-23.22.30:389][662]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/Roman_pCylinder1]
+[2024.09.16-23.22.30:389][662]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Roman_pCylinder1" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Roman_pCylinder1.uasset" SILENT=true
+[2024.09.16-23.22.30:390][662]LogSavePackage: Moving output files for package: /Game/3620/Roman_pCylinder1
+[2024.09.16-23.22.30:390][662]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Roman_pCylinder16B90FF5B4A96C890029008A95ACC6B41.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Roman_pCylinder1.uasset'
+[2024.09.16-23.22.30:395][662]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.964 ms (total: 339.554 ms)
+[2024.09.16-23.22.30:407][662]LogContentValidation: Display: Starting to validate 6 assets
+[2024.09.16-23.22.30:407][662]LogContentValidation: Enabled validators:
+[2024.09.16-23.22.30:407][662]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.16-23.22.30:407][662]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.16-23.22.30:407][662]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.16-23.22.30:407][662]LogContentValidation: Display: Validating asset /Game/3620/Level/3620.3620
+[2024.09.16-23.22.30:407][662]AssetCheck: /Game/3620/Level/3620 Validating asset
+[2024.09.16-23.22.30:407][662]LogContentValidation: Display: Validating asset /Game/3620/Roman_1_pCylinder1.Roman_1_pCylinder1
+[2024.09.16-23.22.30:407][662]AssetCheck: /Game/3620/Roman_1_pCylinder1 Validating asset
+[2024.09.16-23.22.30:407][662]LogContentValidation: Display: Validating asset /Game/3620/Roman_1_pCylinder2.Roman_1_pCylinder2
+[2024.09.16-23.22.30:407][662]AssetCheck: /Game/3620/Roman_1_pCylinder2 Validating asset
+[2024.09.16-23.22.30:407][662]LogContentValidation: Display: Validating asset /Game/3620/Roman_2_pCylinder1.Roman_2_pCylinder1
+[2024.09.16-23.22.30:407][662]AssetCheck: /Game/3620/Roman_2_pCylinder1 Validating asset
+[2024.09.16-23.22.30:408][662]LogContentValidation: Display: Validating asset /Game/3620/Roman_2_pCylinder2.Roman_2_pCylinder2
+[2024.09.16-23.22.30:408][662]AssetCheck: /Game/3620/Roman_2_pCylinder2 Validating asset
+[2024.09.16-23.22.30:408][662]LogContentValidation: Display: Validating asset /Game/3620/Roman_pCylinder1.Roman_pCylinder1
+[2024.09.16-23.22.30:408][662]AssetCheck: /Game/3620/Roman_pCylinder1 Validating asset
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: ================================================
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Total job queries 1,059, among them cache hits 22 (2.08%), DDC hits 14 (1.32%), Duplicates 219 (20.68%)
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Tracking 818 distinct input hashes that result in 624 distinct outputs (76.28%)
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: RAM used: 2.39 MiB of 1.60 GiB budget. Usage: 0.15%
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Shaders Compiled: 804
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Jobs assigned 804, completed 804 (100%)
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Average time worker was idle: 37.35 s
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Time job spent in pending queue: average 14.73 s, longest 46.06 s
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Job execution time: average 12.47 s, max 61.31 s
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Job life time (pending + execution): average 27.20 s, max 61.52
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Shader code size: average 9.713 KiB, min 196 B, max 69.516 KiB
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 123.21 s
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Jobs were issued in 184 batches (only local compilation was used), average 4.37 jobs/batch
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Average processing rate: 6.53 jobs/sec
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Total thread time: 1,179.376 s
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Total thread preprocess time: 10.446 s
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Percentage time preprocessing: 0.89%
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Effective parallelization: 9.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS (compiled   68 times, average 7.22 sec, max 12.34 sec, min 3.02 sec)
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display:                                        FCloudRenderViewPS011 (compiled    1 times, average 6.65 sec, max 6.65 sec, min 6.65 sec)
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display:                                        FCloudRenderViewPS111 (compiled    1 times, average 6.43 sec, max 6.43 sec, min 6.43 sec)
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display:                                        FCloudRenderViewPS101 (compiled    1 times, average 5.82 sec, max 5.82 sec, min 5.82 sec)
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display:                                        FCloudRenderViewPS010 (compiled    1 times, average 5.74 sec, max 5.74 sec, min 5.74 sec)
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display:                           FRenderVolumetricCloudRenderViewCS - 41.65% of total time (compiled   68 times, average 7.22 sec, max 12.34 sec, min 3.02 sec)
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display:                                             FDebugViewModePS - 4.78% of total time (compiled   18 times, average 3.13 sec, max 4.24 sec, min 1.98 sec)
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 3.49% of total time (compiled   40 times, average 1.03 sec, max 1.49 sec, min 0.71 sec)
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display:                                                  FVelocityPS - 2.97% of total time (compiled   26 times, average 1.35 sec, max 1.67 sec, min 1.03 sec)
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 2.10% of total time (compiled   22 times, average 1.13 sec, max 1.40 sec, min 0.66 sec)
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: === Material stats ===
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Materials Translated:    132
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Material Translation Only: 0.02 s (16%)
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: Material Cache Hits: 42 (32%)
+[2024.09.16-23.22.35:451][720]LogShaderCompilers: Display: ================================================
+[2024.09.16-23.24.13:866][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2024.09.16-23.24.13:895][198]LogStall: Shutdown...
+[2024.09.16-23.24.13:898][198]LogStall: Shutdown complete.
+[2024.09.16-23.24.13:927][198]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.09.16-23.24.13:928][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.16-23.24.13:948][198]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.09.16-23.24.13:948][198]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.16-23.24.13:984][198]LogSlate: Window 'Content Browser' being destroyed
+[2024.09.16-23.24.13:987][198]LogSlate: Window 'Bridge' being destroyed
+[2024.09.16-23.24.13:989][198]LogSlate: Window 'HuanJingZuoPing - Unreal Editor' being destroyed
+[2024.09.16-23.24.14:023][198]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2024.09.16-23.24.14:031][198]Cmd: QUIT_EDITOR
+[2024.09.16-23.24.14:032][199]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.09.16-23.24.14:032][199]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.09.16-23.24.14:032][199]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.09.16-23.24.14:032][199]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.09.16-23.24.14:033][199]LogWorld: UWorld::CleanupWorld for 3620, bSessionEnded=true, bCleanupResources=true
+[2024.09.16-23.24.14:033][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.16-23.24.14:033][199]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.16-23.24.14:033][199]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.16-23.24.14:036][199]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.09.16-23.24.14:038][199]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.09.16-23.24.14:038][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.16-23.24.14:038][199]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.09.16-23.24.14:038][199]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.16-23.24.14:078][199]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.09.16-23.24.14:080][199]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.09.16-23.24.14:080][199]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.09.16-23.24.14:080][199]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.09.16-23.24.14:081][199]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.09.16-23.24.14:081][199]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.09.16-23.24.14:081][199]LogAudio: Display: Audio Device unregistered from world '3620'.
+[2024.09.16-23.24.14:081][199]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.09.16-23.24.14:081][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.09.16-23.24.14:082][199]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.09.16-23.24.14:089][199]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.09.16-23.24.14:089][199]LogAudio: Display: Audio Device Manager Shutdown
+[2024.09.16-23.24.14:090][199]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.09.16-23.24.14:090][199]LogExit: Preparing to exit.
+[2024.09.16-23.24.14:097][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.09.16-23.24.15:160][199]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.09.16-23.24.15:170][199]LogExit: Editor shut down
+[2024.09.16-23.24.15:171][199]LogExit: Transaction tracking system shut down
+[2024.09.16-23.24.15:200][199]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2024.09.16-23.24.15:200][199]LogWebBrowser: Deleting browser for Url=https://quixel.com/?code=e51876eb9b0c4e0a9d9ab54a9ffe6ac2.
+[2024.09.16-23.24.15:222][199]LogExit: Object subsystem successfully closed.
+[2024.09.16-23.24.15:253][199]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.09.16-23.24.15:335][199]LogHoudiniEngineEditor: Shutting down the Houdini Engine Editor module.
+[2024.09.16-23.24.15:335][199]LogHoudiniEngineEditor: Houdini Engine Editor module shutdown complete.
+[2024.09.16-23.24.15:649][199]MemoryProfiler: Shutdown
+[2024.09.16-23.24.15:649][199]NetworkingProfiler: Shutdown
+[2024.09.16-23.24.15:649][199]LoadingProfiler: Shutdown
+[2024.09.16-23.24.15:649][199]TimingProfiler: Shutdown
+[2024.09.16-23.24.15:655][199]LogWebBrowser: Deleting browser for Url=file:///C:/Program%20Files/Epic%20Games/UE_5.4/Engine/Plugins/Bridge/ThirdParty/megascans/index.html#/megascans/home?category=surface&category=grass&category=dried.
+[2024.09.16-23.24.15:655][199]LogHoudiniEngine: Shutting down the Houdini Engine module.
+[2024.09.16-23.24.15:751][199]LogOpenImageDenoise: OIDN shutting down
+[2024.09.16-23.24.15:989][199]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.09.16-23.24.15:989][199]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD00E01B3-48E2-7917-B2FC-1EBE45AF1F30%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.3-34507850%2B%2B%2BUE5%2BRelease-5.4&UserID=369448d04f2f8eef4da26ebc85dd0325%7C%7C1293eae1-d709-432c-a803-1cd89ebaafef&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.09.16-23.24.16:019][199]RenderDocPlugin: plugin has been unloaded.
+[2024.09.16-23.24.16:022][199]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.09.16-23.24.16:022][199]LogXGEController: Cleaning working directory: C:/Users/u1371722/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.09.16-23.24.16:023][199]LogPakFile: Destroying PakPlatformFile
+[2024.09.16-23.24.16:082][199]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.09.16-23.24.16:106][199]LogExit: Exiting.
+[2024.09.16-23.24.16:125][199]Log file closed, 09/16/24 17:24:16
