@@ -1013,3 +1013,180 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.09.19-08.57.38:257][297]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Isabel/Saved/Collections/' because it could not be accessed. Aborting watch request...
 [2024.09.19-08.57.38:257][297]LogDirectoryWatcher: Display: A directory notification failed for 'D:/Isabel/Content/Developers/19573/Collections/' because it could not be accessed. Aborting watch request...
 [2024.09.19-08.57.45:739][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.09.19-08.58.07:718][393]LogTexture: Display: Building textures: /Game/GoodSky/Resource/ArrowTool/T_GoodSky_SkyRing.T_GoodSky_SkyRing (TFO_AutoDXT, 256x256 x1x1x1) (Required Memory Estimate: 10.395709 MB), EncodeSpeed: Fast
+[2024.09.19-08.58.07:728][393]LogTexture: Display: Building textures: /Game/GoodSky/Resource/Textures/T_GoodSky_Moon.T_GoodSky_Moon (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.09.19-08.58.07:737][393]LogTexture: Display: Building textures: /Game/GoodSky/Resource/Textures/T_GoodSky_clouds_F.T_GoodSky_clouds_F (TFO_AutoDXT, 2048x512 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.09.19-08.58.07:746][393]LogTexture: Display: Building textures: /Game/GoodSky/Resource/Textures/T_GoodSky_noise_smooth.T_GoodSky_noise_smooth (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.09.19-08.58.07:749][393]LogTexture: Display: Building textures: /Game/GoodSky/Resource/Textures/T_GoodSky_clouds_B.T_GoodSky_clouds_B (TFO_AutoDXT, 2048x512 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.09.19-08.58.07:753][393]LogTexture: Display: Building textures: /Game/GoodSky/Resource/Textures/T_GoodSky_clouds_A.T_GoodSky_clouds_A (TFO_AutoDXT, 2048x512 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.09.19-08.58.07:788][393]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C
+[2024.09.19-08.58.07:788][393]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C
+[2024.09.19-08.58.07:795][393]LogActorFactory: Actor Factory spawned Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky as actor: BP_GoodSky_C /Game/3620/Level/3620.3620:PersistentLevel.BP_GoodSky_C_0
+[2024.09.19-08.58.07:798][393]LogActorFactory: Actor Factory spawned Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky as actor: BP_GoodSky_C /Game/3620/Level/3620.3620:PersistentLevel.BP_GoodSky_C_0
+[2024.09.19-08.58.07:809][393]LogStaticMesh: Display: Building static mesh SM_GoodSky_Moon (Required Memory Estimate: 0.21355 MB)...
+[2024.09.19-08.58.07:809][393]LogStaticMesh: Display: Building static mesh SM_GoodSky_StarMesh (Required Memory Estimate: 0.438822 MB)...
+[2024.09.19-08.58.07:809][393]LogStaticMesh: Display: Building static mesh SM_GoodSky_Hemisphere (Required Memory Estimate: 2.722319 MB)...
+[2024.09.19-08.58.07:812][393]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.09.19-08.58.07:815][393]LogStaticMesh: Display: Building static mesh SM_GoodSky_Sphere (Required Memory Estimate: 5.431139 MB)...
+[2024.09.19-08.58.07:816][393]LogStaticMesh: Built static mesh [0.01s] /Game/GoodSky/Resource/ArrowTool/SM_GoodSky_StarMesh.SM_GoodSky_StarMesh
+[2024.09.19-08.58.07:818][393]LogStaticMesh: Built static mesh [0.01s] /Game/GoodSky/Resource/ArrowTool/SM_GoodSky_Moon.SM_GoodSky_Moon
+[2024.09.19-08.58.07:823][393]LogStaticMesh: Built static mesh [0.01s] /Game/GoodSky/Resource/Mesh/SM_GoodSky_Hemisphere.SM_GoodSky_Hemisphere
+[2024.09.19-08.58.07:829][393]LogTexture: Display: Building textures: /Game/GoodSky/Resource/Textures/T_GoodSky_Lightning.T_GoodSky_Lightning (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.09.19-08.58.07:834][393]LogStaticMesh: Built static mesh [0.02s] /Game/GoodSky/Resource/Mesh/SM_GoodSky_Sphere.SM_GoodSky_Sphere
+[2024.09.19-08.58.07:849][393]LogTexture: Display: Building textures: /Game/GoodSky/Resource/Textures/T_GoodSky_clouds_C.T_GoodSky_clouds_C (TFO_AutoDXT, 2048x512 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.09.19-08.58.07:854][393]LogTexture: Display: Building textures: /Game/GoodSky/Resource/Textures/T_GoodSky_clouds_D.T_GoodSky_clouds_D (TFO_AutoDXT, 2048x512 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.09.19-08.58.07:868][393]LogTexture: Display: Building textures: /Game/GoodSky/Resource/Textures/T_GoodSky_clouds_E.T_GoodSky_clouds_E (TFO_AutoDXT, 2048x512 x1x1x1) (Required Memory Estimate: 101.645823 MB), EncodeSpeed: Fast
+[2024.09.19-08.58.07:879][393]LogTexture: Display: Building textures: /Game/GoodSky/Resource/Textures/T_GoodSky_clouds_sphere.T_GoodSky_clouds_sphere (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.09.19-08.58.07:886][393]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_2'.
+[2024.09.19-08.58.08:840][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.09.19-08.58.08:890][476]LogEditorActor: Deleted 0 Actors (0.061 secs)
+[2024.09.19-08.58.08:895][476]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C
+[2024.09.19-08.58.08:895][476]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C
+[2024.09.19-08.58.08:899][476]LogActorFactory: Actor Factory spawned Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky as actor: BP_GoodSky_C /Game/3620/Level/3620.3620:PersistentLevel.BP_GoodSky_C_1
+[2024.09.19-08.58.08:903][476]LogActorFactory: Actor Factory spawned Blueprint /Game/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky as actor: BP_GoodSky_C /Game/3620/Level/3620.3620:PersistentLevel.BP_GoodSky_C_1
+[2024.09.19-08.58.09:100][477]LogSlate: Took 0.010160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.09.19-08.58.21:806][480]Cmd: ACTOR HIDE SELECTED
+[2024.09.19-08.58.22:166][515]Cmd: ACTOR HIDE SELECTED
+[2024.09.19-08.58.23:123][610]Cmd: TRANSACTION UNDO
+[2024.09.19-08.58.23:123][610]LogEditorTransaction: Undo Hide Selected
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: ================================================
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Total job queries 219, among them cache hits 31 (14.16%), DDC hits 159 (72.60%), Duplicates 5 (2.28%)
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Tracking 183 distinct input hashes that result in 164 distinct outputs (89.62%)
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: RAM used: 1.03 MiB of 1.60 GiB budget. Usage: 0.06%
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Shaders Compiled: 24
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Jobs assigned 24, completed 24 (100%)
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Time job spent in pending queue: average 2.08 s, longest 3.96 s
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Job execution time: average 1.62 s, max 3.61 s
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Job life time (pending + execution): average 3.70 s, max 5.18
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Shader code size: average 3.582 KiB, min 524 B, max 8.301 KiB
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.21 s
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Average processing rate: 4.61 jobs/sec
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Total thread time: 29.055 s
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Total thread preprocess time: 3.092 s
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Percentage time preprocessing: 10.64%
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Effective parallelization: 5.58 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 1.86 sec, max 1.88 sec, min 1.85 sec)
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 1.60 sec, max 1.68 sec, min 1.53 sec)
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 1.26 sec, max 1.48 sec, min 1.04 sec)
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 1.05 sec, max 1.05 sec, min 1.05 sec)
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    2 times, average 0.97 sec, max 1.00 sec, min 0.95 sec)
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.38% of total time (compiled    4 times, average 1.26 sec, max 1.48 sec, min 1.04 sec)
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 12.82% of total time (compiled    2 times, average 1.86 sec, max 1.88 sec, min 1.85 sec)
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.43% of total time (compiled    4 times, average 0.83 sec, max 0.90 sec, min 0.66 sec)
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display:                                                  FVelocityPS - 11.04% of total time (compiled    2 times, average 1.60 sec, max 1.68 sec, min 1.53 sec)
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.72% of total time (compiled    3 times, average 0.94 sec, max 1.03 sec, min 0.81 sec)
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: === Material stats ===
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Materials Translated:    130
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Material Translation Only: 0.05 s (23%)
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: Material Cache Hits: 27 (21%)
+[2024.09.19-08.59.23:244][393]LogShaderCompilers: Display: ================================================
+[2024.09.19-09.02.09:271][646]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.09.19-09.02.14:342][208]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: ================================================
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Total job queries 227, among them cache hits 31 (13.66%), DDC hits 163 (71.81%), Duplicates 5 (2.20%)
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Tracking 191 distinct input hashes that result in 170 distinct outputs (89.01%)
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: RAM used: 1.04 MiB of 1.60 GiB budget. Usage: 0.06%
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Shaders Compiled: 28
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Jobs assigned 28, completed 28 (100%)
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Average time worker was idle: 15.27 s
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Time job spent in pending queue: average 1.79 s, longest 3.96 s
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Job execution time: average 1.58 s, max 3.61 s
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Job life time (pending + execution): average 3.37 s, max 5.18
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Shader code size: average 3.958 KiB, min 524 B, max 9.395 KiB
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.71 s
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Jobs were issued in 28 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Average processing rate: 4.17 jobs/sec
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Total thread time: 31.718 s
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Total thread preprocess time: 3.183 s
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Percentage time preprocessing: 10.04%
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Effective parallelization: 4.72 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 1.86 sec, max 1.88 sec, min 1.85 sec)
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 1.60 sec, max 1.68 sec, min 1.53 sec)
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 1.17 sec, max 1.48 sec, min 0.82 sec)
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 1.05 sec, max 1.05 sec, min 1.05 sec)
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    2 times, average 0.97 sec, max 1.00 sec, min 0.95 sec)
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.49% of total time (compiled    5 times, average 1.17 sec, max 1.48 sec, min 0.82 sec)
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 12.54% of total time (compiled    5 times, average 0.80 sec, max 0.90 sec, min 0.66 sec)
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 11.75% of total time (compiled    2 times, average 1.86 sec, max 1.88 sec, min 1.85 sec)
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.78% of total time (compiled    4 times, average 0.85 sec, max 1.03 sec, min 0.60 sec)
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display:                                                  FVelocityPS - 10.11% of total time (compiled    2 times, average 1.60 sec, max 1.68 sec, min 1.53 sec)
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: === Material stats ===
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Materials Translated:    130
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Material Translation Only: 0.05 s (23%)
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: Material Cache Hits: 27 (21%)
+[2024.09.19-09.02.23:246][135]LogShaderCompilers: Display: ================================================
+[2024.09.19-09.02.47:305][820]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.09.19-09.02.49:919][109]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: ================================================
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Total job queries 231, among them cache hits 31 (13.42%), DDC hits 163 (70.56%), Duplicates 5 (2.16%)
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Tracking 195 distinct input hashes that result in 172 distinct outputs (88.21%)
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: RAM used: 1.05 MiB of 1.60 GiB budget. Usage: 0.06%
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Shaders Compiled: 32
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Jobs assigned 32, completed 32 (100%)
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Average time worker was idle: 53.99 s
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Time job spent in pending queue: average 1.58 s, longest 3.96 s
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Job execution time: average 1.56 s, max 3.61 s
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Job life time (pending + execution): average 3.14 s, max 5.18
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Shader code size: average 4.146 KiB, min 524 B, max 9.395 KiB
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.46 s
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Jobs were issued in 32 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Average processing rate: 3.78 jobs/sec
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Total thread time: 34.9 s
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Total thread preprocess time: 3.232 s
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Percentage time preprocessing: 9.26%
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Effective parallelization: 4.12 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.09.19-09.05.23:247][663]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    2 times, average 1.86 sec, max 1.88 sec, min 1.85 sec)
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display:                                                  FVelocityPS (compiled    2 times, average 1.60 sec, max 1.68 sec, min 1.53 sec)
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 1.14 sec, max 1.48 sec, min 0.82 sec)
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    1 times, average 1.05 sec, max 1.05 sec, min 1.05 sec)
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display:         TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect (compiled    2 times, average 0.97 sec, max 1.00 sec, min 0.95 sec)
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.59% of total time (compiled    6 times, average 1.14 sec, max 1.48 sec, min 0.82 sec)
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 13.62% of total time (compiled    6 times, average 0.79 sec, max 0.90 sec, min 0.66 sec)
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 11.88% of total time (compiled    5 times, average 0.83 sec, max 1.03 sec, min 0.60 sec)
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display:                                                 FDepthOnlyPS - 10.68% of total time (compiled    2 times, average 1.86 sec, max 1.88 sec, min 1.85 sec)
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.17% of total time (compiled    5 times, average 0.71 sec, max 0.81 sec, min 0.59 sec)
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display: === Material stats ===
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display: Materials Translated:    130
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display: Material Translation Only: 0.05 s (23%)
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display: Material Cache Hits: 27 (21%)
+[2024.09.19-09.05.23:249][663]LogShaderCompilers: Display: ================================================
+[2024.09.19-09.07.27:083][779]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.19-09.07.27:121][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Level/3620" FILE="D:/Isabel/Content/3620/Level/3620.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.09.19-09.07.27:212][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.09.19-09.07.27:257][779]LogSavePackage: Moving output files for package: /Game/3620/Level/3620
+[2024.09.19-09.07.27:257][779]LogSavePackage: Moving 'D:/Isabel/Saved/3620CC186E7E4BAE84FDB4725EA3F91CB4D2.tmp' to 'D:/Isabel/Content/3620/Level/3620.umap'
+[2024.09.19-09.07.27:263][779]LogFileHelpers: Saving map '3620' took 0.144
+[2024.09.19-09.07.27:281][779]LogFileHelpers: InternalPromptForCheckoutAndSave took 197.986 ms (total: 332.914 ms)
+[2024.09.19-09.07.27:314][779]LogContentValidation: Display: Starting to validate 1 assets
+[2024.09.19-09.07.27:314][779]LogContentValidation: Enabled validators:
+[2024.09.19-09.07.27:314][779]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.19-09.07.27:314][779]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.19-09.07.27:314][779]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.19-09.07.27:314][779]LogContentValidation: Display: Validating asset /Game/3620/Level/3620.3620
+[2024.09.19-09.07.27:314][779]AssetCheck: /Game/3620/Level/3620 Validating asset
