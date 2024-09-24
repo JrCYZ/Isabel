@@ -2616,3 +2616,159 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.09.24-22.11.08:783][903]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.09.24-22.11.08:783][903]LogContentValidation: Display: Validating asset /Game/3620/Level/_GENERATED/u1371722/Rectangle_3E2F47DB.Rectangle_3E2F47DB
 [2024.09.24-22.11.08:783][903]AssetCheck: /Game/3620/Level/_GENERATED/u1371722/Rectangle_3E2F47DB Validating asset
+[2024.09.24-22.12.32:479][654]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_4'.
+[2024.09.24-22.13.03:895][726]Cmd: TRANSACTION UNDO
+[2024.09.24-22.13.03:895][726]LogEditorTransaction: Undo Clicking on Elements
+[2024.09.24-22.18.57:989][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.09.24-22.18.58:044][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3620/Level/3620_Auto2
+[2024.09.24-22.18.58:044][603]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/3620_Auto2B81FFF9C45AD1659506E38916AC63D8A.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Autosaves/Game/3620/Level/3620_Auto2.umap'
+[2024.09.24-22.18.58:045][603]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Autosaves/Game/3620/Level/3620_Auto2.umap is in the /Temp path, will not scan.
+[2024.09.24-22.18.58:046][603]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3620/Level/3620' took 0.064
+[2024.09.24-22.18.58:046][603]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2024.09.24-22.21.34:641][380]Cmd: DELETE
+[2024.09.24-22.21.34:641][380]Cmd: ACTOR DELETE
+[2024.09.24-22.21.34:647][380]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.09.24-22.21.34:653][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.09.24-22.21.34:655][380]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2024.09.24-22.21.45:906][259]Cmd: DELETE
+[2024.09.24-22.21.45:906][259]Cmd: ACTOR DELETE
+[2024.09.24-22.21.45:912][259]LogEditorActor: Actor Wagon_2_pCube2 is referenced by GroupActor11.
+[2024.09.24-22.21.47:274][259]LogSlate: Window 'Message' being destroyed
+[2024.09.24-22.21.47:278][259]Message dialog closed, result: No, title: Message, text: Actor Wagon_2_pCube2 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor11
+[2024.09.24-22.21.47:278][259]LogEditorActor: Actor Wagon_2_pCube3 is referenced by GroupActor11.
+[2024.09.24-22.21.48:837][259]LogSlate: Window 'Message' being destroyed
+[2024.09.24-22.21.48:841][259]Message dialog closed, result: NoAll, title: Message, text: Actor Wagon_2_pCube3 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+GroupActor11
+[2024.09.24-22.21.48:845][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.09.24-22.21.48:847][259]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2024.09.24-22.28.58:569][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.09.24-22.28.58:639][454]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/3620/Level/3620_Auto3
+[2024.09.24-22.28.58:639][454]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/3620_Auto3DED78E924FFC0CF81BC33D9F77A1AEED.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Autosaves/Game/3620/Level/3620_Auto3.umap'
+[2024.09.24-22.28.58:640][454]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/Autosaves/Game/3620/Level/3620_Auto3.umap is in the /Temp path, will not scan.
+[2024.09.24-22.28.58:640][454]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/3620/Level/3620_Auto3 is in the /Temp path, will not scan.
+[2024.09.24-22.28.58:640][454]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/3620/Level/3620_Auto3 is in the /Temp path, will not scan.
+[2024.09.24-22.28.58:641][454]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/3620/Level/3620' took 0.077
+[2024.09.24-22.28.58:641][454]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2024.09.24-22.37.14:092][ 50]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\u1371722\Desktop\JR_Test.fbx)
+[2024.09.24-22.37.14:110][ 50]LogFbx: Loading FBX Scene from C:\Users\u1371722\Desktop\JR_Test.fbx
+[2024.09.24-22.37.14:120][ 50]LogFbx: FBX Scene Loaded Succesfully
+[2024.09.24-22.37.15:443][ 50]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.09.24-22.37.15:521][ 50]LogFbx: Display: Triangulating static mesh pCube41
+[2024.09.24-22.37.15:540][ 50]LogStaticMesh: Display: Building static mesh JR_Test (Required Memory Estimate: 1.812792 MB)...
+[2024.09.24-22.37.15:552][ 50]LogStaticMesh: Built static mesh [0.01s] /Game/3620/JR_Test.JR_Test
+[2024.09.24-22.37.15:568][ 50]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.09.24-22.37.17:070][194]LogSlate: Window 'Content Browser' being destroyed
+[2024.09.24-22.37.17:073][194]LogSlate: Window 'Content Browser' being destroyed
+[2024.09.24-22.37.17:642][262]LogSlate: Window 'Message Log' being destroyed
+[2024.09.24-22.37.17:646][262]LogSlate: Window 'Message Log' being destroyed
+[2024.09.24-22.37.27:714][301]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_Test.JR_Test
+[2024.09.24-22.37.27:715][301]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_Test.JR_Test
+[2024.09.24-22.37.27:715][301]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/JR_Test.JR_Test as actor: StaticMeshActor /Game/3620/Level/3620.3620:PersistentLevel.StaticMeshActor_421
+[2024.09.24-22.37.28:426][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.09.24-22.37.28:427][381]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2024.09.24-22.37.28:434][381]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_Test.JR_Test
+[2024.09.24-22.37.28:434][381]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/3620/JR_Test.JR_Test
+[2024.09.24-22.37.28:435][381]LogActorFactory: Actor Factory spawned StaticMesh /Game/3620/JR_Test.JR_Test as actor: StaticMeshActor /Game/3620/Level/3620.3620:PersistentLevel.StaticMeshActor_422
+[2024.09.24-22.38.43:726][416]Cmd: TRANSACTION UNDO
+[2024.09.24-22.38.43:726][416]LogEditorTransaction: Undo Scale Elements
+[2024.09.24-22.39.01:506][ 76]Cmd: TRANSACTION UNDO
+[2024.09.24-22.39.01:506][ 76]LogEditorTransaction: Undo Move Elements
+[2024.09.24-22.39.02:287][108]Cmd: TRANSACTION UNDO
+[2024.09.24-22.39.02:287][108]LogEditorTransaction: Undo Move Elements
+[2024.09.24-22.39.05:098][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.09.24-22.39.06:117][365]LogSlate: Window 'Save Content' being destroyed
+[2024.09.24-22.39.06:132][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.09.24-22.39.06:174][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/Level/3620" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Level/3620.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.09.24-22.39.06:222][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2024.09.24-22.39.06:285][365]LogSavePackage: Moving output files for package: /Game/3620/Level/3620
+[2024.09.24-22.39.06:285][365]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/36208618D2AC439A41E96DE378A5DC55B431.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/Level/3620.umap'
+[2024.09.24-22.39.06:289][365]LogFileHelpers: All files are already saved.
+[2024.09.24-22.39.06:292][365]LogFileHelpers: Saving map '3620' took 0.118
+[2024.09.24-22.39.06:292][365]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/3620/JR_Test] ([1] browsable assets)...
+[2024.09.24-22.39.06:307][365]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/3620/JR_Test.JR_Test]
+[2024.09.24-22.39.06:307][365]OBJ SavePackage: Finished generating thumbnails for package [/Game/3620/JR_Test]
+[2024.09.24-22.39.06:307][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/3620/JR_Test" FILE="../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/JR_Test.uasset" SILENT=true
+[2024.09.24-22.39.06:310][365]LogSavePackage: Moving output files for package: /Game/3620/JR_Test
+[2024.09.24-22.39.06:310][365]LogSavePackage: Moving '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Saved/JR_Test6AD62C5648D7769075C507832029C32E.tmp' to '../../../../../../Users/u1371722/Documents/GitHub/Isabel/Content/3620/JR_Test.uasset'
+[2024.09.24-22.39.06:317][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 185.133 ms (total: 975.142 ms)
+[2024.09.24-22.39.06:373][365]LogContentValidation: Display: Starting to validate 2 assets
+[2024.09.24-22.39.06:373][365]LogContentValidation: Enabled validators:
+[2024.09.24-22.39.06:373][365]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.09.24-22.39.06:373][365]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.09.24-22.39.06:373][365]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.09.24-22.39.06:373][365]LogContentValidation: Display: Validating asset /Game/3620/Level/3620.3620
+[2024.09.24-22.39.06:373][365]AssetCheck: /Game/3620/Level/3620 Validating asset
+[2024.09.24-22.39.06:373][365]LogContentValidation: Display: Validating asset /Game/3620/JR_Test.JR_Test
+[2024.09.24-22.39.06:373][365]AssetCheck: /Game/3620/JR_Test Validating asset
+[2024.09.24-22.39.08:770][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.09.24-22.39.08:815][612]LogStall: Shutdown...
+[2024.09.24-22.39.08:821][612]LogStall: Shutdown complete.
+[2024.09.24-22.39.08:865][612]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.09.24-22.39.08:865][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.24-22.39.08:899][612]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.09.24-22.39.08:899][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.24-22.39.08:950][612]LogSlate: Window 'HuanJingZuoPing - Unreal Editor' being destroyed
+[2024.09.24-22.39.09:011][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.09.24-22.39.09:019][612]Cmd: QUIT_EDITOR
+[2024.09.24-22.39.09:019][613]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.09.24-22.39.09:020][613]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.09.24-22.39.09:020][613]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.09.24-22.39.09:020][613]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.09.24-22.39.09:023][613]LogWorld: UWorld::CleanupWorld for 3620, bSessionEnded=true, bCleanupResources=true
+[2024.09.24-22.39.09:023][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.24-22.39.09:024][613]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.09.24-22.39.09:024][613]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.09.24-22.39.09:027][613]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.09.24-22.39.09:030][613]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.09.24-22.39.09:030][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.24-22.39.09:030][613]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.09.24-22.39.09:030][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.24-22.39.09:030][613]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.09.24-22.39.09:030][613]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.09.24-22.39.09:075][613]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.09.24-22.39.09:077][613]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.09.24-22.39.09:077][613]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.09.24-22.39.09:077][613]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.09.24-22.39.09:078][613]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.09.24-22.39.09:078][613]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.09.24-22.39.09:078][613]LogAudio: Display: Audio Device unregistered from world '3620'.
+[2024.09.24-22.39.09:078][613]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.09.24-22.39.09:078][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.09.24-22.39.09:079][613]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.09.24-22.39.09:086][613]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.09.24-22.39.09:086][613]LogAudio: Display: Audio Device Manager Shutdown
+[2024.09.24-22.39.09:087][613]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2024.09.24-22.39.09:089][613]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.09.24-22.39.09:089][613]LogExit: Preparing to exit.
+[2024.09.24-22.39.09:100][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.09.24-22.39.10:322][613]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.09.24-22.39.10:334][613]LogExit: Editor shut down
+[2024.09.24-22.39.10:335][613]LogExit: Transaction tracking system shut down
+[2024.09.24-22.39.10:396][613]LogExit: Object subsystem successfully closed.
+[2024.09.24-22.39.10:424][613]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.09.24-22.39.10:469][613]LogHoudiniEngineEditor: Shutting down the Houdini Engine Editor module.
+[2024.09.24-22.39.10:469][613]LogHoudiniEngineEditor: Houdini Engine Editor module shutdown complete.
+[2024.09.24-22.39.10:800][613]MemoryProfiler: Shutdown
+[2024.09.24-22.39.10:800][613]NetworkingProfiler: Shutdown
+[2024.09.24-22.39.10:800][613]LoadingProfiler: Shutdown
+[2024.09.24-22.39.10:800][613]TimingProfiler: Shutdown
+[2024.09.24-22.39.10:838][613]LogHoudiniEngine: Shutting down the Houdini Engine module.
+[2024.09.24-22.39.10:878][613]LogOpenImageDenoise: OIDN shutting down
+[2024.09.24-22.39.11:137][613]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.09.24-22.39.11:137][613]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2751BE12-4872-220D-DAA3-21905524C118%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.4-35576357%2B%2B%2BUE5%2BRelease-5.4&UserID=94a6957f4b5feac0fdd413bf65eb4068%7Cc8fac709ea1343b2aaf5c3df7f54ec0f%7Ca0b2ff22-e708-4204-84b4-a17dd7d949f2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.09.24-22.39.11:154][613]RenderDocPlugin: plugin has been unloaded.
+[2024.09.24-22.39.11:155][613]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.09.24-22.39.11:155][613]LogXGEController: Cleaning working directory: C:/Users/u1371722/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.09.24-22.39.11:156][613]LogPakFile: Destroying PakPlatformFile
+[2024.09.24-22.39.11:255][613]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.09.24-22.39.11:273][613]LogExit: Exiting.
+[2024.09.24-22.39.11:296][613]Log file closed, 09/24/24 16:39:11
