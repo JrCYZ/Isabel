@@ -1,2 +1,3 @@
-2024/10/10-13:19:37.899 2694 Creating DB D:/Isabel/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/10/10-13:19:37.911 2694 Reusing MANIFEST D:/Isabel/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/10/10-23:18:48.851 9c2c Reusing MANIFEST D:/Isabel/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/10/10-23:18:48.852 9c2c Recovering log #3
+2024/10/10-23:18:48.853 9c2c Reusing old log D:/Isabel/Saved/webcache_4430\Local Storage\leveldb/000003.log 
