@@ -1,0 +1,7 @@
+[1011/212156.567:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1011/212353.547:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1011/215451.612:ERROR:cache_util_win.cc(20)] Unable to move the cache: Access is denied. (0x5)
+[1011/215451.613:ERROR:cache_util.cc(144)] Unable to move cache folder D:/Isabel/Saved/webcache_4430\Cache to D:/Isabel/Saved/webcache_4430\old_Cache_000
+[1011/215451.613:ERROR:disk_cache.cc(184)] Unable to create cache
+[1011/215503.388:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[1011/215649.842:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
